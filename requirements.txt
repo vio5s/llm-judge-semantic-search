@@ -1,0 +1,17 @@
+# основное: таблицы, графики, метрики и сборка корпуса
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+scikit-learn>=1.4
+huggingface_hub>=0.23
+jupyterlab>=4
+
+# тяжёлые шаги (флаги RUN_* в первой ячейке)
+torch>=2.2
+sentence-transformers>=5.0
+transformers>=4.45
+datasets>=2.20
+bm25s>=0.2
+PyStemmer>=2.2
+hnswlib>=0.8
+requests>=2.31
