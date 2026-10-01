@@ -1,0 +1,6006 @@
+{
+ "model": "qwen2.5:7b",
+ "split": "valid",
+ "pairs": [
+  {
+   "qid": "4120",
+   "docid": "6007519#0",
+   "human": 1,
+   "passage_len": 172,
+   "grade_v1": 3,
+   "sec_v1": 1.496,
+   "grade_v2": 3,
+   "sec_v2": 5.972
+  },
+  {
+   "qid": "6079",
+   "docid": "34919#15",
+   "human": 0,
+   "passage_len": 1361,
+   "grade_v1": 1,
+   "sec_v1": 4.678,
+   "grade_v2": 0,
+   "sec_v2": 2.944
+  },
+  {
+   "qid": "5163",
+   "docid": "2753013#36",
+   "human": 1,
+   "passage_len": 695,
+   "grade_v1": 1,
+   "sec_v1": 3.116,
+   "grade_v2": 0,
+   "sec_v2": 2.017
+  },
+  {
+   "qid": "530",
+   "docid": "21404#15",
+   "human": 1,
+   "passage_len": 917,
+   "grade_v1": 2,
+   "sec_v1": 3.254,
+   "grade_v2": 1,
+   "sec_v2": 2.01
+  },
+  {
+   "qid": "5454",
+   "docid": "115263#9",
+   "human": 0,
+   "passage_len": 508,
+   "grade_v1": 0,
+   "sec_v1": 2.374,
+   "grade_v2": 0,
+   "sec_v2": 1.43
+  },
+  {
+   "qid": "4816",
+   "docid": "251673#26",
+   "human": 0,
+   "passage_len": 418,
+   "grade_v1": 3,
+   "sec_v1": 2.088,
+   "grade_v2": 1,
+   "sec_v2": 1.298
+  },
+  {
+   "qid": "438",
+   "docid": "7501153#1",
+   "human": 0,
+   "passage_len": 813,
+   "grade_v1": 0,
+   "sec_v1": 3.377,
+   "grade_v2": 0,
+   "sec_v2": 2.168
+  },
+  {
+   "qid": "4416",
+   "docid": "54700#7",
+   "human": 1,
+   "passage_len": 282,
+   "grade_v1": 3,
+   "sec_v1": 1.818,
+   "grade_v2": 3,
+   "sec_v2": 1.14
+  },
+  {
+   "qid": "3200",
+   "docid": "3913162#0",
+   "human": 1,
+   "passage_len": 219,
+   "grade_v1": 2,
+   "sec_v1": 1.438,
+   "grade_v2": 1,
+   "sec_v2": 0.868
+  },
+  {
+   "qid": "5724",
+   "docid": "7608684#4",
+   "human": 1,
+   "passage_len": 796,
+   "grade_v1": 1,
+   "sec_v1": 3.251,
+   "grade_v2": 0,
+   "sec_v2": 2.015
+  },
+  {
+   "qid": "2730",
+   "docid": "4068722#4",
+   "human": 1,
+   "passage_len": 1485,
+   "grade_v1": 2,
+   "sec_v1": 5.244,
+   "grade_v2": 1,
+   "sec_v2": 3.1
+  },
+  {
+   "qid": "6612",
+   "docid": "1218#7",
+   "human": 1,
+   "passage_len": 1276,
+   "grade_v1": 1,
+   "sec_v1": 4.634,
+   "grade_v2": 1,
+   "sec_v2": 2.82
+  },
+  {
+   "qid": "2684",
+   "docid": "608#60",
+   "human": 0,
+   "passage_len": 1033,
+   "grade_v1": 0,
+   "sec_v1": 3.628,
+   "grade_v2": 0,
+   "sec_v2": 2.181
+  },
+  {
+   "qid": "3724",
+   "docid": "3545448#14",
+   "human": 1,
+   "passage_len": 918,
+   "grade_v1": 2,
+   "sec_v1": 3.472,
+   "grade_v2": 1,
+   "sec_v2": 2.164
+  },
+  {
+   "qid": "5634",
+   "docid": "1656544#0",
+   "human": 1,
+   "passage_len": 286,
+   "grade_v1": 1,
+   "sec_v1": 1.906,
+   "grade_v2": 0,
+   "sec_v2": 1.137
+  },
+  {
+   "qid": "5203",
+   "docid": "594872#0",
+   "human": 0,
+   "passage_len": 411,
+   "grade_v1": 3,
+   "sec_v1": 2.16,
+   "grade_v2": 3,
+   "sec_v2": 1.304
+  },
+  {
+   "qid": "2458",
+   "docid": "5435574#0",
+   "human": 1,
+   "passage_len": 455,
+   "grade_v1": 2,
+   "sec_v1": 2.316,
+   "grade_v2": 1,
+   "sec_v2": 1.303
+  },
+  {
+   "qid": "4929",
+   "docid": "878579#11",
+   "human": 1,
+   "passage_len": 1604,
+   "grade_v1": 2,
+   "sec_v1": 5.398,
+   "grade_v2": 1,
+   "sec_v2": 3.383
+  },
+  {
+   "qid": "3171",
+   "docid": "178208#39",
+   "human": 0,
+   "passage_len": 938,
+   "grade_v1": 1,
+   "sec_v1": 3.442,
+   "grade_v2": 1,
+   "sec_v2": 2.171
+  },
+  {
+   "qid": "1437",
+   "docid": "34248#0",
+   "human": 1,
+   "passage_len": 804,
+   "grade_v1": 3,
+   "sec_v1": 3.511,
+   "grade_v2": 3,
+   "sec_v2": 2.007
+  },
+  {
+   "qid": "2684",
+   "docid": "608#0",
+   "human": 1,
+   "passage_len": 489,
+   "grade_v1": 3,
+   "sec_v1": 3.09,
+   "grade_v2": 3,
+   "sec_v2": 1.433
+  },
+  {
+   "qid": "5867",
+   "docid": "345073#7",
+   "human": 1,
+   "passage_len": 674,
+   "grade_v1": 2,
+   "sec_v1": 3.417,
+   "grade_v2": 1,
+   "sec_v2": 1.723
+  },
+  {
+   "qid": "1839",
+   "docid": "1874409#4",
+   "human": 0,
+   "passage_len": 1800,
+   "grade_v1": 1,
+   "sec_v1": 6.336,
+   "grade_v2": 0,
+   "sec_v2": 3.515
+  },
+  {
+   "qid": "6642",
+   "docid": "3035732#22",
+   "human": 0,
+   "passage_len": 1065,
+   "grade_v1": 0,
+   "sec_v1": 4.239,
+   "grade_v2": 0,
+   "sec_v2": 2.474
+  },
+  {
+   "qid": "1704",
+   "docid": "6862564#0",
+   "human": 1,
+   "passage_len": 723,
+   "grade_v1": 2,
+   "sec_v1": 3.001,
+   "grade_v2": 2,
+   "sec_v2": 1.591
+  },
+  {
+   "qid": "1070",
+   "docid": "355823#0",
+   "human": 1,
+   "passage_len": 329,
+   "grade_v1": 3,
+   "sec_v1": 2.103,
+   "grade_v2": 3,
+   "sec_v2": 1.152
+  },
+  {
+   "qid": "5073",
+   "docid": "52143#12",
+   "human": 0,
+   "passage_len": 1081,
+   "grade_v1": 0,
+   "sec_v1": 3.71,
+   "grade_v2": 0,
+   "sec_v2": 2.009
+  },
+  {
+   "qid": "6163",
+   "docid": "4953204#6",
+   "human": 0,
+   "passage_len": 914,
+   "grade_v1": 2,
+   "sec_v1": 2.893,
+   "grade_v2": 1,
+   "sec_v2": 1.723
+  },
+  {
+   "qid": "6209",
+   "docid": "928709#11",
+   "human": 0,
+   "passage_len": 272,
+   "grade_v1": 0,
+   "sec_v1": 1.678,
+   "grade_v2": 0,
+   "sec_v2": 1.022
+  },
+  {
+   "qid": "4107",
+   "docid": "223510#0",
+   "human": 1,
+   "passage_len": 114,
+   "grade_v1": 2,
+   "sec_v1": 1.415,
+   "grade_v2": 3,
+   "sec_v2": 0.857
+  },
+  {
+   "qid": "5848",
+   "docid": "2193247#1",
+   "human": 0,
+   "passage_len": 327,
+   "grade_v1": 1,
+   "sec_v1": 2.196,
+   "grade_v2": 0,
+   "sec_v2": 1.143
+  },
+  {
+   "qid": "2231",
+   "docid": "2857064#15",
+   "human": 0,
+   "passage_len": 778,
+   "grade_v1": 2,
+   "sec_v1": 3.039,
+   "grade_v2": 3,
+   "sec_v2": 1.72
+  },
+  {
+   "qid": "4767",
+   "docid": "1035167#25",
+   "human": 1,
+   "passage_len": 527,
+   "grade_v1": 1,
+   "sec_v1": 2.459,
+   "grade_v2": 0,
+   "sec_v2": 1.432
+  },
+  {
+   "qid": "1400",
+   "docid": "1129745#3",
+   "human": 1,
+   "passage_len": 874,
+   "grade_v1": 2,
+   "sec_v1": 3.079,
+   "grade_v2": 3,
+   "sec_v2": 1.722
+  },
+  {
+   "qid": "4743",
+   "docid": "273920#51",
+   "human": 0,
+   "passage_len": 1053,
+   "grade_v1": 1,
+   "sec_v1": 3.925,
+   "grade_v2": 1,
+   "sec_v2": 2.309
+  },
+  {
+   "qid": "2523",
+   "docid": "60506#22",
+   "human": 0,
+   "passage_len": 611,
+   "grade_v1": 0,
+   "sec_v1": 2.37,
+   "grade_v2": 0,
+   "sec_v2": 1.589
+  },
+  {
+   "qid": "4047",
+   "docid": "4233743#19",
+   "human": 1,
+   "passage_len": 882,
+   "grade_v1": 1,
+   "sec_v1": 3.5,
+   "grade_v2": 0,
+   "sec_v2": 1.872
+  },
+  {
+   "qid": "4329",
+   "docid": "979686#31",
+   "human": 1,
+   "passage_len": 1015,
+   "grade_v1": 2,
+   "sec_v1": 3.77,
+   "grade_v2": 2,
+   "sec_v2": 2.183
+  },
+  {
+   "qid": "4047",
+   "docid": "1497939#1",
+   "human": 0,
+   "passage_len": 666,
+   "grade_v1": 2,
+   "sec_v1": 2.802,
+   "grade_v2": 0,
+   "sec_v2": 1.586
+  },
+  {
+   "qid": "6161",
+   "docid": "148877#54",
+   "human": 1,
+   "passage_len": 1376,
+   "grade_v1": 2,
+   "sec_v1": 5.23,
+   "grade_v2": 1,
+   "sec_v2": 3.096
+  },
+  {
+   "qid": "3377",
+   "docid": "364870#27",
+   "human": 0,
+   "passage_len": 824,
+   "grade_v1": 0,
+   "sec_v1": 3.254,
+   "grade_v2": 0,
+   "sec_v2": 1.875
+  },
+  {
+   "qid": "1196",
+   "docid": "182833#10",
+   "human": 0,
+   "passage_len": 611,
+   "grade_v1": 1,
+   "sec_v1": 2.872,
+   "grade_v2": 1,
+   "sec_v2": 1.592
+  },
+  {
+   "qid": "626",
+   "docid": "4761260#17",
+   "human": 0,
+   "passage_len": 1215,
+   "grade_v1": 2,
+   "sec_v1": 4.402,
+   "grade_v2": 1,
+   "sec_v2": 2.615
+  },
+  {
+   "qid": "3390",
+   "docid": "3233170#2",
+   "human": 0,
+   "passage_len": 1140,
+   "grade_v1": 1,
+   "sec_v1": 4.156,
+   "grade_v2": 0,
+   "sec_v2": 2.48
+  },
+  {
+   "qid": "2024",
+   "docid": "762555#0",
+   "human": 0,
+   "passage_len": 445,
+   "grade_v1": 0,
+   "sec_v1": 2.315,
+   "grade_v2": 0,
+   "sec_v2": 1.296
+  },
+  {
+   "qid": "5957",
+   "docid": "1613149#27",
+   "human": 1,
+   "passage_len": 942,
+   "grade_v1": 1,
+   "sec_v1": 3.656,
+   "grade_v2": 0,
+   "sec_v2": 2.178
+  },
+  {
+   "qid": "5875",
+   "docid": "4526853#1",
+   "human": 0,
+   "passage_len": 707,
+   "grade_v1": 0,
+   "sec_v1": 3.032,
+   "grade_v2": 0,
+   "sec_v2": 1.712
+  },
+  {
+   "qid": "5724",
+   "docid": "1943025#2",
+   "human": 0,
+   "passage_len": 407,
+   "grade_v1": 1,
+   "sec_v1": 2.303,
+   "grade_v2": 0,
+   "sec_v2": 1.423
+  },
+  {
+   "qid": "979",
+   "docid": "3459911#0",
+   "human": 1,
+   "passage_len": 320,
+   "grade_v1": 3,
+   "sec_v1": 2.053,
+   "grade_v2": 3,
+   "sec_v2": 1.145
+  },
+  {
+   "qid": "3478",
+   "docid": "4316602#1",
+   "human": 0,
+   "passage_len": 456,
+   "grade_v1": 0,
+   "sec_v1": 2.161,
+   "grade_v2": 0,
+   "sec_v2": 1.298
+  },
+  {
+   "qid": "5157",
+   "docid": "2750831#2",
+   "human": 0,
+   "passage_len": 643,
+   "grade_v1": 0,
+   "sec_v1": 3.06,
+   "grade_v2": 0,
+   "sec_v2": 1.724
+  },
+  {
+   "qid": "6161",
+   "docid": "148877#62",
+   "human": 1,
+   "passage_len": 1061,
+   "grade_v1": 2,
+   "sec_v1": 3.422,
+   "grade_v2": 2,
+   "sec_v2": 2.185
+  },
+  {
+   "qid": "922",
+   "docid": "3836#31",
+   "human": 1,
+   "passage_len": 718,
+   "grade_v1": 1,
+   "sec_v1": 3.336,
+   "grade_v2": 1,
+   "sec_v2": 1.878
+  },
+  {
+   "qid": "5154",
+   "docid": "6136610#0",
+   "human": 0,
+   "passage_len": 1022,
+   "grade_v1": 0,
+   "sec_v1": 3.444,
+   "grade_v2": 0,
+   "sec_v2": 2.185
+  },
+  {
+   "qid": "4350",
+   "docid": "194996#1",
+   "human": 1,
+   "passage_len": 491,
+   "grade_v1": 3,
+   "sec_v1": 2.574,
+   "grade_v2": 3,
+   "sec_v2": 1.43
+  },
+  {
+   "qid": "2730",
+   "docid": "4068722#2",
+   "human": 1,
+   "passage_len": 1122,
+   "grade_v1": 1,
+   "sec_v1": 4.629,
+   "grade_v2": 1,
+   "sec_v2": 2.632
+  },
+  {
+   "qid": "2195",
+   "docid": "38#19",
+   "human": 1,
+   "passage_len": 466,
+   "grade_v1": 3,
+   "sec_v1": 2.316,
+   "grade_v2": 3,
+   "sec_v2": 1.432
+  },
+  {
+   "qid": "2798",
+   "docid": "2599852#0",
+   "human": 0,
+   "passage_len": 462,
+   "grade_v1": 0,
+   "sec_v1": 2.181,
+   "grade_v2": 0,
+   "sec_v2": 1.15
+  },
+  {
+   "qid": "2195",
+   "docid": "878888#38",
+   "human": 1,
+   "passage_len": 313,
+   "grade_v1": 3,
+   "sec_v1": 1.691,
+   "grade_v2": 3,
+   "sec_v2": 1.143
+  },
+  {
+   "qid": "1910",
+   "docid": "7072803#26",
+   "human": 0,
+   "passage_len": 1010,
+   "grade_v1": 0,
+   "sec_v1": 3.757,
+   "grade_v2": 0,
+   "sec_v2": 2.175
+  },
+  {
+   "qid": "5108",
+   "docid": "22194#14",
+   "human": 0,
+   "passage_len": 919,
+   "grade_v1": 0,
+   "sec_v1": 3.775,
+   "grade_v2": 0,
+   "sec_v2": 2.014
+  },
+  {
+   "qid": "3390",
+   "docid": "1921391#19",
+   "human": 1,
+   "passage_len": 344,
+   "grade_v1": 2,
+   "sec_v1": 1.871,
+   "grade_v2": 0,
+   "sec_v2": 1.024
+  },
+  {
+   "qid": "3905",
+   "docid": "2680503#12",
+   "human": 0,
+   "passage_len": 621,
+   "grade_v1": 0,
+   "sec_v1": 3.217,
+   "grade_v2": 0,
+   "sec_v2": 1.712
+  },
+  {
+   "qid": "4890",
+   "docid": "50580#33",
+   "human": 1,
+   "passage_len": 1680,
+   "grade_v1": 3,
+   "sec_v1": 5.443,
+   "grade_v2": 2,
+   "sec_v2": 3.241
+  },
+  {
+   "qid": "4993",
+   "docid": "6376755#0",
+   "human": 0,
+   "passage_len": 316,
+   "grade_v1": 0,
+   "sec_v1": 1.937,
+   "grade_v2": 0,
+   "sec_v2": 1.139
+  },
+  {
+   "qid": "5724",
+   "docid": "6024369#2",
+   "human": 0,
+   "passage_len": 1732,
+   "grade_v1": 0,
+   "sec_v1": 5.794,
+   "grade_v2": 0,
+   "sec_v2": 3.108
+  },
+  {
+   "qid": "4890",
+   "docid": "50580#36",
+   "human": 1,
+   "passage_len": 1547,
+   "grade_v1": 3,
+   "sec_v1": 5.12,
+   "grade_v2": 2,
+   "sec_v2": 3.097
+  },
+  {
+   "qid": "5621",
+   "docid": "54700#3",
+   "human": 1,
+   "passage_len": 380,
+   "grade_v1": 2,
+   "sec_v1": 2.282,
+   "grade_v2": 3,
+   "sec_v2": 1.302
+  },
+  {
+   "qid": "2955",
+   "docid": "244431#8",
+   "human": 1,
+   "passage_len": 1393,
+   "grade_v1": 2,
+   "sec_v1": 4.784,
+   "grade_v2": 2,
+   "sec_v2": 2.949
+  },
+  {
+   "qid": "6482",
+   "docid": "13588#8",
+   "human": 1,
+   "passage_len": 1061,
+   "grade_v1": 2,
+   "sec_v1": 3.775,
+   "grade_v2": 1,
+   "sec_v2": 2.308
+  },
+  {
+   "qid": "138",
+   "docid": "53598#30",
+   "human": 0,
+   "passage_len": 1455,
+   "grade_v1": 1,
+   "sec_v1": 4.744,
+   "grade_v2": 0,
+   "sec_v2": 3.1
+  },
+  {
+   "qid": "2026",
+   "docid": "160174#14",
+   "human": 0,
+   "passage_len": 827,
+   "grade_v1": 2,
+   "sec_v1": 2.628,
+   "grade_v2": 2,
+   "sec_v2": 1.87
+  },
+  {
+   "qid": "4349",
+   "docid": "5787401#2",
+   "human": 1,
+   "passage_len": 1162,
+   "grade_v1": 0,
+   "sec_v1": 3.634,
+   "grade_v2": 0,
+   "sec_v2": 2.303
+  },
+  {
+   "qid": "299",
+   "docid": "32397#41",
+   "human": 1,
+   "passage_len": 626,
+   "grade_v1": 1,
+   "sec_v1": 2.264,
+   "grade_v2": 0,
+   "sec_v2": 1.432
+  },
+  {
+   "qid": "6564",
+   "docid": "55808#44",
+   "human": 0,
+   "passage_len": 1070,
+   "grade_v1": 0,
+   "sec_v1": 3.613,
+   "grade_v2": 0,
+   "sec_v2": 2.309
+  },
+  {
+   "qid": "1178",
+   "docid": "223#0",
+   "human": 1,
+   "passage_len": 251,
+   "grade_v1": 3,
+   "sec_v1": 1.655,
+   "grade_v2": 3,
+   "sec_v2": 1.023
+  },
+  {
+   "qid": "5957",
+   "docid": "1613149#6",
+   "human": 1,
+   "passage_len": 354,
+   "grade_v1": 3,
+   "sec_v1": 1.959,
+   "grade_v2": 3,
+   "sec_v2": 1.297
+  },
+  {
+   "qid": "3478",
+   "docid": "7248565#31",
+   "human": 1,
+   "passage_len": 829,
+   "grade_v1": 3,
+   "sec_v1": 3.271,
+   "grade_v2": 3,
+   "sec_v2": 2.007
+  },
+  {
+   "qid": "2853",
+   "docid": "3433897#15",
+   "human": 1,
+   "passage_len": 636,
+   "grade_v1": 2,
+   "sec_v1": 2.164,
+   "grade_v2": 3,
+   "sec_v2": 1.435
+  },
+  {
+   "qid": "3033",
+   "docid": "4868023#2",
+   "human": 0,
+   "passage_len": 544,
+   "grade_v1": 0,
+   "sec_v1": 2.132,
+   "grade_v2": 0,
+   "sec_v2": 1.309
+  },
+  {
+   "qid": "5154",
+   "docid": "6255967#0",
+   "human": 0,
+   "passage_len": 634,
+   "grade_v1": 0,
+   "sec_v1": 2.523,
+   "grade_v2": 0,
+   "sec_v2": 1.586
+  },
+  {
+   "qid": "5154",
+   "docid": "767543#0",
+   "human": 1,
+   "passage_len": 92,
+   "grade_v1": 0,
+   "sec_v1": 0.952,
+   "grade_v2": 0,
+   "sec_v2": 0.592
+  },
+  {
+   "qid": "4349",
+   "docid": "7200523#19",
+   "human": 0,
+   "passage_len": 913,
+   "grade_v1": 0,
+   "sec_v1": 2.834,
+   "grade_v2": 0,
+   "sec_v2": 1.882
+  },
+  {
+   "qid": "2789",
+   "docid": "1534585#40",
+   "human": 0,
+   "passage_len": 272,
+   "grade_v1": 1,
+   "sec_v1": 1.646,
+   "grade_v2": 0,
+   "sec_v2": 1.037
+  },
+  {
+   "qid": "68",
+   "docid": "6516703#22",
+   "human": 0,
+   "passage_len": 592,
+   "grade_v1": 0,
+   "sec_v1": 2.286,
+   "grade_v2": 0,
+   "sec_v2": 1.433
+  },
+  {
+   "qid": "6163",
+   "docid": "1573026#30",
+   "human": 1,
+   "passage_len": 654,
+   "grade_v1": 3,
+   "sec_v1": 2.409,
+   "grade_v2": 2,
+   "sec_v2": 1.435
+  },
+  {
+   "qid": "6653",
+   "docid": "3617356#15",
+   "human": 0,
+   "passage_len": 746,
+   "grade_v1": 1,
+   "sec_v1": 2.504,
+   "grade_v2": 1,
+   "sec_v2": 1.586
+  },
+  {
+   "qid": "4827",
+   "docid": "213579#3",
+   "human": 1,
+   "passage_len": 368,
+   "grade_v1": 0,
+   "sec_v1": 1.991,
+   "grade_v2": 0,
+   "sec_v2": 1.149
+  },
+  {
+   "qid": "4948",
+   "docid": "26750#6",
+   "human": 0,
+   "passage_len": 960,
+   "grade_v1": 0,
+   "sec_v1": 3.105,
+   "grade_v2": 0,
+   "sec_v2": 2.015
+  },
+  {
+   "qid": "1141",
+   "docid": "140538#0",
+   "human": 0,
+   "passage_len": 416,
+   "grade_v1": 2,
+   "sec_v1": 1.869,
+   "grade_v2": 0,
+   "sec_v2": 1.144
+  },
+  {
+   "qid": "2024",
+   "docid": "6371641#4",
+   "human": 1,
+   "passage_len": 1023,
+   "grade_v1": 1,
+   "sec_v1": 3.147,
+   "grade_v2": 0,
+   "sec_v2": 2.017
+  },
+  {
+   "qid": "6163",
+   "docid": "4953888#5",
+   "human": 1,
+   "passage_len": 474,
+   "grade_v1": 3,
+   "sec_v1": 2.077,
+   "grade_v2": 3,
+   "sec_v2": 1.3
+  },
+  {
+   "qid": "6655",
+   "docid": "381565#1",
+   "human": 0,
+   "passage_len": 986,
+   "grade_v1": 0,
+   "sec_v1": 3.367,
+   "grade_v2": 0,
+   "sec_v2": 2.17
+  },
+  {
+   "qid": "5095",
+   "docid": "23758#4",
+   "human": 0,
+   "passage_len": 824,
+   "grade_v1": 1,
+   "sec_v1": 3.09,
+   "grade_v2": 0,
+   "sec_v2": 2.009
+  },
+  {
+   "qid": "1989",
+   "docid": "405974#15",
+   "human": 1,
+   "passage_len": 548,
+   "grade_v1": 3,
+   "sec_v1": 2.612,
+   "grade_v2": 3,
+   "sec_v2": 1.583
+  },
+  {
+   "qid": "4767",
+   "docid": "94965#25",
+   "human": 1,
+   "passage_len": 914,
+   "grade_v1": 0,
+   "sec_v1": 3.059,
+   "grade_v2": 0,
+   "sec_v2": 2.038
+  },
+  {
+   "qid": "2026",
+   "docid": "3684484#14",
+   "human": 1,
+   "passage_len": 399,
+   "grade_v1": 2,
+   "sec_v1": 1.874,
+   "grade_v2": 1,
+   "sec_v2": 1.166
+  },
+  {
+   "qid": "4104",
+   "docid": "67970#62",
+   "human": 1,
+   "passage_len": 732,
+   "grade_v1": 3,
+   "sec_v1": 3.132,
+   "grade_v2": 3,
+   "sec_v2": 1.881
+  },
+  {
+   "qid": "1559",
+   "docid": "6334503#1",
+   "human": 0,
+   "passage_len": 896,
+   "grade_v1": 0,
+   "sec_v1": 3.433,
+   "grade_v2": 0,
+   "sec_v2": 2.16
+  },
+  {
+   "qid": "2366",
+   "docid": "149775#41",
+   "human": 1,
+   "passage_len": 272,
+   "grade_v1": 1,
+   "sec_v1": 1.543,
+   "grade_v2": 0,
+   "sec_v2": 1.035
+  },
+  {
+   "qid": "2830",
+   "docid": "46906#21",
+   "human": 1,
+   "passage_len": 563,
+   "grade_v1": 2,
+   "sec_v1": 2.32,
+   "grade_v2": 2,
+   "sec_v2": 1.581
+  },
+  {
+   "qid": "1207",
+   "docid": "564149#30",
+   "human": 1,
+   "passage_len": 650,
+   "grade_v1": 1,
+   "sec_v1": 2.448,
+   "grade_v2": 0,
+   "sec_v2": 1.582
+  },
+  {
+   "qid": "4340",
+   "docid": "3258560#11",
+   "human": 1,
+   "passage_len": 69,
+   "grade_v1": 1,
+   "sec_v1": 1.155,
+   "grade_v2": 1,
+   "sec_v2": 0.739
+  },
+  {
+   "qid": "4767",
+   "docid": "1035167#6",
+   "human": 0,
+   "passage_len": 599,
+   "grade_v1": 1,
+   "sec_v1": 2.378,
+   "grade_v2": 0,
+   "sec_v2": 1.583
+  },
+  {
+   "qid": "1989",
+   "docid": "4580601#6",
+   "human": 1,
+   "passage_len": 602,
+   "grade_v1": 2,
+   "sec_v1": 2.33,
+   "grade_v2": 3,
+   "sec_v2": 1.573
+  },
+  {
+   "qid": "1178",
+   "docid": "6513923#5",
+   "human": 1,
+   "passage_len": 329,
+   "grade_v1": 3,
+   "sec_v1": 1.67,
+   "grade_v2": 3,
+   "sec_v2": 1.135
+  },
+  {
+   "qid": "6603",
+   "docid": "6835388#0",
+   "human": 0,
+   "passage_len": 526,
+   "grade_v1": 2,
+   "sec_v1": 2.214,
+   "grade_v2": 3,
+   "sec_v2": 1.414
+  },
+  {
+   "qid": "6653",
+   "docid": "2550773#1",
+   "human": 1,
+   "passage_len": 513,
+   "grade_v1": 3,
+   "sec_v1": 1.994,
+   "grade_v2": 3,
+   "sec_v2": 1.3
+  },
+  {
+   "qid": "1135",
+   "docid": "953209#1",
+   "human": 1,
+   "passage_len": 1596,
+   "grade_v1": 2,
+   "sec_v1": 4.93,
+   "grade_v2": 1,
+   "sec_v2": 3.406
+  },
+  {
+   "qid": "4107",
+   "docid": "55370#60",
+   "human": 1,
+   "passage_len": 2174,
+   "grade_v1": 2,
+   "sec_v1": 6.036,
+   "grade_v2": 3,
+   "sec_v2": 3.984
+  },
+  {
+   "qid": "1807",
+   "docid": "371370#2",
+   "human": 0,
+   "passage_len": 456,
+   "grade_v1": 3,
+   "sec_v1": 1.888,
+   "grade_v2": 3,
+   "sec_v2": 1.311
+  },
+  {
+   "qid": "6361",
+   "docid": "4615479#15",
+   "human": 1,
+   "passage_len": 410,
+   "grade_v1": 1,
+   "sec_v1": 2.057,
+   "grade_v2": 1,
+   "sec_v2": 1.309
+  },
+  {
+   "qid": "5555",
+   "docid": "93247#16",
+   "human": 1,
+   "passage_len": 1340,
+   "grade_v1": 1,
+   "sec_v1": 4.861,
+   "grade_v2": 1,
+   "sec_v2": 3.117
+  },
+  {
+   "qid": "3724",
+   "docid": "5341939#26",
+   "human": 0,
+   "passage_len": 1060,
+   "grade_v1": 2,
+   "sec_v1": 3.264,
+   "grade_v2": 1,
+   "sec_v2": 2.177
+  },
+  {
+   "qid": "3466",
+   "docid": "31581#7",
+   "human": 0,
+   "passage_len": 746,
+   "grade_v1": 2,
+   "sec_v1": 2.672,
+   "grade_v2": 2,
+   "sec_v2": 1.721
+  },
+  {
+   "qid": "1078",
+   "docid": "191980#16",
+   "human": 1,
+   "passage_len": 1229,
+   "grade_v1": 3,
+   "sec_v1": 4.189,
+   "grade_v2": 2,
+   "sec_v2": 2.966
+  },
+  {
+   "qid": "4515",
+   "docid": "14915#2",
+   "human": 1,
+   "passage_len": 578,
+   "grade_v1": 3,
+   "sec_v1": 2.185,
+   "grade_v2": 3,
+   "sec_v2": 1.428
+  },
+  {
+   "qid": "2375",
+   "docid": "2812826#11",
+   "human": 0,
+   "passage_len": 2427,
+   "grade_v1": 0,
+   "sec_v1": 5.137,
+   "grade_v2": 0,
+   "sec_v2": 3.397
+  },
+  {
+   "qid": "1282",
+   "docid": "248799#0",
+   "human": 1,
+   "passage_len": 1119,
+   "grade_v1": 3,
+   "sec_v1": 3.585,
+   "grade_v2": 3,
+   "sec_v2": 2.331
+  },
+  {
+   "qid": "5971",
+   "docid": "6188377#0",
+   "human": 1,
+   "passage_len": 512,
+   "grade_v1": 2,
+   "sec_v1": 2.119,
+   "grade_v2": 1,
+   "sec_v2": 1.307
+  },
+  {
+   "qid": "2458",
+   "docid": "5435574#86",
+   "human": 0,
+   "passage_len": 942,
+   "grade_v1": 1,
+   "sec_v1": 3.225,
+   "grade_v2": 0,
+   "sec_v2": 2.015
+  },
+  {
+   "qid": "4437",
+   "docid": "133074#0",
+   "human": 1,
+   "passage_len": 335,
+   "grade_v1": 3,
+   "sec_v1": 1.558,
+   "grade_v2": 3,
+   "sec_v2": 1.025
+  },
+  {
+   "qid": "6079",
+   "docid": "621605#8",
+   "human": 0,
+   "passage_len": 688,
+   "grade_v1": 0,
+   "sec_v1": 2.017,
+   "grade_v2": 0,
+   "sec_v2": 1.602
+  },
+  {
+   "qid": "5737",
+   "docid": "2748814#7",
+   "human": 1,
+   "passage_len": 1318,
+   "grade_v1": 2,
+   "sec_v1": 2.768,
+   "grade_v2": 1,
+   "sec_v2": 2.635
+  },
+  {
+   "qid": "1041",
+   "docid": "49910#49",
+   "human": 0,
+   "passage_len": 537,
+   "grade_v1": 1,
+   "sec_v1": 2.148,
+   "grade_v2": 1,
+   "sec_v2": 1.586
+  },
+  {
+   "qid": "3377",
+   "docid": "4698412#6",
+   "human": 0,
+   "passage_len": 599,
+   "grade_v1": 0,
+   "sec_v1": 2.155,
+   "grade_v2": 0,
+   "sec_v2": 1.605
+  },
+  {
+   "qid": "3915",
+   "docid": "5990532#1",
+   "human": 0,
+   "passage_len": 477,
+   "grade_v1": 0,
+   "sec_v1": 2.294,
+   "grade_v2": 1,
+   "sec_v2": 1.44
+  },
+  {
+   "qid": "3200",
+   "docid": "2284352#1",
+   "human": 1,
+   "passage_len": 649,
+   "grade_v1": 1,
+   "sec_v1": 2.192,
+   "grade_v2": 0,
+   "sec_v2": 1.595
+  },
+  {
+   "qid": "2204",
+   "docid": "4289#2",
+   "human": 1,
+   "passage_len": 430,
+   "grade_v1": 3,
+   "sec_v1": 1.289,
+   "grade_v2": 2,
+   "sec_v2": 1.303
+  },
+  {
+   "qid": "4656",
+   "docid": "4347157#0",
+   "human": 1,
+   "passage_len": 264,
+   "grade_v1": 2,
+   "sec_v1": 0.998,
+   "grade_v2": 1,
+   "sec_v2": 1.022
+  },
+  {
+   "qid": "5502",
+   "docid": "7713677#0",
+   "human": 0,
+   "passage_len": 347,
+   "grade_v1": 0,
+   "sec_v1": 1.121,
+   "grade_v2": 0,
+   "sec_v2": 1.154
+  },
+  {
+   "qid": "1375",
+   "docid": "3989103#1",
+   "human": 1,
+   "passage_len": 194,
+   "grade_v1": 3,
+   "sec_v1": 1.008,
+   "grade_v2": 3,
+   "sec_v2": 1.018
+  },
+  {
+   "qid": "4827",
+   "docid": "213579#44",
+   "human": 1,
+   "passage_len": 658,
+   "grade_v1": 2,
+   "sec_v1": 1.75,
+   "grade_v2": 1,
+   "sec_v2": 1.587
+  },
+  {
+   "qid": "1509",
+   "docid": "1254213#35",
+   "human": 0,
+   "passage_len": 85,
+   "grade_v1": 0,
+   "sec_v1": 0.84,
+   "grade_v2": 0,
+   "sec_v2": 0.859
+  },
+  {
+   "qid": "2138",
+   "docid": "76667#1",
+   "human": 0,
+   "passage_len": 789,
+   "grade_v1": 0,
+   "sec_v1": 1.765,
+   "grade_v2": 0,
+   "sec_v2": 1.731
+  },
+  {
+   "qid": "4555",
+   "docid": "465#10",
+   "human": 1,
+   "passage_len": 1252,
+   "grade_v1": 2,
+   "sec_v1": 2.684,
+   "grade_v2": 2,
+   "sec_v2": 2.655
+  },
+  {
+   "qid": "4089",
+   "docid": "4825909#4",
+   "human": 1,
+   "passage_len": 404,
+   "grade_v1": 3,
+   "sec_v1": 1.186,
+   "grade_v2": 3,
+   "sec_v2": 1.154
+  },
+  {
+   "qid": "5505",
+   "docid": "6346941#0",
+   "human": 0,
+   "passage_len": 331,
+   "grade_v1": 1,
+   "sec_v1": 1.165,
+   "grade_v2": 3,
+   "sec_v2": 1.149
+  },
+  {
+   "qid": "1015",
+   "docid": "156895#0",
+   "human": 0,
+   "passage_len": 333,
+   "grade_v1": 1,
+   "sec_v1": 1.163,
+   "grade_v2": 0,
+   "sec_v2": 1.149
+  },
+  {
+   "qid": "427",
+   "docid": "4874471#8",
+   "human": 1,
+   "passage_len": 550,
+   "grade_v1": 1,
+   "sec_v1": 1.452,
+   "grade_v2": 1,
+   "sec_v2": 1.427
+  },
+  {
+   "qid": "6549",
+   "docid": "194645#4",
+   "human": 1,
+   "passage_len": 1517,
+   "grade_v1": 2,
+   "sec_v1": 4.688,
+   "grade_v2": 1,
+   "sec_v2": 3.24
+  },
+  {
+   "qid": "1534",
+   "docid": "3258199#1",
+   "human": 0,
+   "passage_len": 305,
+   "grade_v1": 3,
+   "sec_v1": 1.047,
+   "grade_v2": 3,
+   "sec_v2": 1.024
+  },
+  {
+   "qid": "438",
+   "docid": "4794339#2",
+   "human": 0,
+   "passage_len": 773,
+   "grade_v1": 0,
+   "sec_v1": 1.952,
+   "grade_v2": 0,
+   "sec_v2": 1.886
+  },
+  {
+   "qid": "1061",
+   "docid": "85976#4",
+   "human": 1,
+   "passage_len": 564,
+   "grade_v1": 1,
+   "sec_v1": 1.709,
+   "grade_v2": 1,
+   "sec_v2": 1.723
+  },
+  {
+   "qid": "3745",
+   "docid": "4370149#14",
+   "human": 0,
+   "passage_len": 1830,
+   "grade_v1": 0,
+   "sec_v1": 4.021,
+   "grade_v2": 0,
+   "sec_v2": 3.964
+  },
+  {
+   "qid": "2231",
+   "docid": "2857064#33",
+   "human": 1,
+   "passage_len": 1278,
+   "grade_v1": 2,
+   "sec_v1": 2.486,
+   "grade_v2": 1,
+   "sec_v2": 2.448
+  },
+  {
+   "qid": "3438",
+   "docid": "4593579#46",
+   "human": 1,
+   "passage_len": 1400,
+   "grade_v1": 2,
+   "sec_v1": 2.668,
+   "grade_v2": 2,
+   "sec_v2": 2.619
+  },
+  {
+   "qid": "2138",
+   "docid": "7128466#2",
+   "human": 0,
+   "passage_len": 527,
+   "grade_v1": 0,
+   "sec_v1": 1.835,
+   "grade_v2": 0,
+   "sec_v2": 1.415
+  },
+  {
+   "qid": "453",
+   "docid": "714816#4",
+   "human": 0,
+   "passage_len": 630,
+   "grade_v1": 0,
+   "sec_v1": 4.083,
+   "grade_v2": 0,
+   "sec_v2": 1.706
+  },
+  {
+   "qid": "3128",
+   "docid": "173494#65",
+   "human": 0,
+   "passage_len": 868,
+   "grade_v1": 0,
+   "sec_v1": 5.244,
+   "grade_v2": 0,
+   "sec_v2": 2.151
+  },
+  {
+   "qid": "1984",
+   "docid": "6117433#33",
+   "human": 1,
+   "passage_len": 1267,
+   "grade_v1": 1,
+   "sec_v1": 6.663,
+   "grade_v2": 0,
+   "sec_v2": 2.788
+  },
+  {
+   "qid": "3355",
+   "docid": "1354094#24",
+   "human": 1,
+   "passage_len": 547,
+   "grade_v1": 3,
+   "sec_v1": 3.797,
+   "grade_v2": 1,
+   "sec_v2": 1.573
+  },
+  {
+   "qid": "2618",
+   "docid": "4392#11",
+   "human": 1,
+   "passage_len": 917,
+   "grade_v1": 3,
+   "sec_v1": 5.106,
+   "grade_v2": 3,
+   "sec_v2": 2.003
+  },
+  {
+   "qid": "2792",
+   "docid": "2626997#48",
+   "human": 0,
+   "passage_len": 902,
+   "grade_v1": 1,
+   "sec_v1": 4.476,
+   "grade_v2": 0,
+   "sec_v2": 1.86
+  },
+  {
+   "qid": "1271",
+   "docid": "2637965#0",
+   "human": 1,
+   "passage_len": 101,
+   "grade_v1": 3,
+   "sec_v1": 1.688,
+   "grade_v2": 3,
+   "sec_v2": 0.739
+  },
+  {
+   "qid": "3724",
+   "docid": "6497150#2",
+   "human": 0,
+   "passage_len": 1081,
+   "grade_v1": 1,
+   "sec_v1": 5.941,
+   "grade_v2": 0,
+   "sec_v2": 2.455
+  },
+  {
+   "qid": "874",
+   "docid": "805925#35",
+   "human": 0,
+   "passage_len": 776,
+   "grade_v1": 1,
+   "sec_v1": 4.805,
+   "grade_v2": 0,
+   "sec_v2": 1.984
+  },
+  {
+   "qid": "4807",
+   "docid": "28045#52",
+   "human": 0,
+   "passage_len": 732,
+   "grade_v1": 2,
+   "sec_v1": 4.431,
+   "grade_v2": 0,
+   "sec_v2": 1.856
+  },
+  {
+   "qid": "23",
+   "docid": "10475#1",
+   "human": 1,
+   "passage_len": 357,
+   "grade_v1": 2,
+   "sec_v1": 2.47,
+   "grade_v2": 1,
+   "sec_v2": 1.134
+  },
+  {
+   "qid": "4099",
+   "docid": "1042761#1",
+   "human": 0,
+   "passage_len": 826,
+   "grade_v1": 0,
+   "sec_v1": 4.801,
+   "grade_v2": 0,
+   "sec_v2": 2.15
+  },
+  {
+   "qid": "138",
+   "docid": "53598#5",
+   "human": 0,
+   "passage_len": 934,
+   "grade_v1": 0,
+   "sec_v1": 4.588,
+   "grade_v2": 0,
+   "sec_v2": 2.144
+  },
+  {
+   "qid": "2138",
+   "docid": "740991#8",
+   "human": 0,
+   "passage_len": 500,
+   "grade_v1": 1,
+   "sec_v1": 2.817,
+   "grade_v2": 0,
+   "sec_v2": 1.298
+  },
+  {
+   "qid": "1942",
+   "docid": "971145#0",
+   "human": 0,
+   "passage_len": 301,
+   "grade_v1": 3,
+   "sec_v1": 2.426,
+   "grade_v2": 3,
+   "sec_v2": 1.134
+  },
+  {
+   "qid": "5454",
+   "docid": "4726144#1",
+   "human": 0,
+   "passage_len": 126,
+   "grade_v1": 1,
+   "sec_v1": 1.86,
+   "grade_v2": 0,
+   "sec_v2": 0.853
+  },
+  {
+   "qid": "1509",
+   "docid": "1254213#36",
+   "human": 0,
+   "passage_len": 160,
+   "grade_v1": 0,
+   "sec_v1": 2.151,
+   "grade_v2": 0,
+   "sec_v2": 1.012
+  },
+  {
+   "qid": "4047",
+   "docid": "979276#2",
+   "human": 1,
+   "passage_len": 491,
+   "grade_v1": 1,
+   "sec_v1": 2.801,
+   "grade_v2": 0,
+   "sec_v2": 1.296
+  },
+  {
+   "qid": "1896",
+   "docid": "11959#7",
+   "human": 1,
+   "passage_len": 507,
+   "grade_v1": 1,
+   "sec_v1": 3.086,
+   "grade_v2": 0,
+   "sec_v2": 1.416
+  },
+  {
+   "qid": "6015",
+   "docid": "90317#0",
+   "human": 0,
+   "passage_len": 260,
+   "grade_v1": 1,
+   "sec_v1": 2.174,
+   "grade_v2": 1,
+   "sec_v2": 1.016
+  },
+  {
+   "qid": "4057",
+   "docid": "59576#120",
+   "human": 0,
+   "passage_len": 1882,
+   "grade_v1": 1,
+   "sec_v1": 7.246,
+   "grade_v2": 1,
+   "sec_v2": 3.356
+  },
+  {
+   "qid": "4099",
+   "docid": "1407509#2",
+   "human": 1,
+   "passage_len": 632,
+   "grade_v1": 0,
+   "sec_v1": 4.051,
+   "grade_v2": 0,
+   "sec_v2": 1.858
+  },
+  {
+   "qid": "6383",
+   "docid": "2797#41",
+   "human": 1,
+   "passage_len": 465,
+   "grade_v1": 2,
+   "sec_v1": 2.845,
+   "grade_v2": 1,
+   "sec_v2": 1.3
+  },
+  {
+   "qid": "3587",
+   "docid": "649918#2",
+   "human": 1,
+   "passage_len": 656,
+   "grade_v1": 2,
+   "sec_v1": 3.636,
+   "grade_v2": 1,
+   "sec_v2": 1.697
+  },
+  {
+   "qid": "3190",
+   "docid": "2518#31",
+   "human": 1,
+   "passage_len": 535,
+   "grade_v1": 2,
+   "sec_v1": 3.518,
+   "grade_v2": 1,
+   "sec_v2": 1.583
+  },
+  {
+   "qid": "4827",
+   "docid": "213579#36",
+   "human": 1,
+   "passage_len": 859,
+   "grade_v1": 1,
+   "sec_v1": 4.011,
+   "grade_v2": 0,
+   "sec_v2": 1.867
+  },
+  {
+   "qid": "3438",
+   "docid": "4593579#56",
+   "human": 1,
+   "passage_len": 98,
+   "grade_v1": 2,
+   "sec_v1": 1.567,
+   "grade_v2": 3,
+   "sec_v2": 0.74
+  },
+  {
+   "qid": "4403",
+   "docid": "9773#50",
+   "human": 1,
+   "passage_len": 660,
+   "grade_v1": 3,
+   "sec_v1": 3.329,
+   "grade_v2": 3,
+   "sec_v2": 1.579
+  },
+  {
+   "qid": "3708",
+   "docid": "2749377#4",
+   "human": 0,
+   "passage_len": 496,
+   "grade_v1": 2,
+   "sec_v1": 3.098,
+   "grade_v2": 0,
+   "sec_v2": 1.421
+  },
+  {
+   "qid": "4050",
+   "docid": "34228#2",
+   "human": 1,
+   "passage_len": 393,
+   "grade_v1": 3,
+   "sec_v1": 2.855,
+   "grade_v2": 3,
+   "sec_v2": 1.297
+  },
+  {
+   "qid": "1078",
+   "docid": "242074#1",
+   "human": 1,
+   "passage_len": 653,
+   "grade_v1": 1,
+   "sec_v1": 4.169,
+   "grade_v2": 1,
+   "sec_v2": 1.7
+  },
+  {
+   "qid": "4126",
+   "docid": "6951963#0",
+   "human": 1,
+   "passage_len": 2019,
+   "grade_v1": 3,
+   "sec_v1": 8.858,
+   "grade_v2": 3,
+   "sec_v2": 3.636
+  },
+  {
+   "qid": "2359",
+   "docid": "36943#16",
+   "human": 0,
+   "passage_len": 207,
+   "grade_v1": 2,
+   "sec_v1": 2.386,
+   "grade_v2": 3,
+   "sec_v2": 1.018
+  },
+  {
+   "qid": "5848",
+   "docid": "243890#1",
+   "human": 1,
+   "passage_len": 336,
+   "grade_v1": 1,
+   "sec_v1": 2.501,
+   "grade_v2": 1,
+   "sec_v2": 1.018
+  },
+  {
+   "qid": "4047",
+   "docid": "3660089#1",
+   "human": 1,
+   "passage_len": 456,
+   "grade_v1": 0,
+   "sec_v1": 3.241,
+   "grade_v2": 0,
+   "sec_v2": 1.29
+  },
+  {
+   "qid": "4107",
+   "docid": "223510#1",
+   "human": 1,
+   "passage_len": 559,
+   "grade_v1": 1,
+   "sec_v1": 3.195,
+   "grade_v2": 1,
+   "sec_v2": 1.295
+  },
+  {
+   "qid": "2204",
+   "docid": "4289#79",
+   "human": 0,
+   "passage_len": 1105,
+   "grade_v1": 1,
+   "sec_v1": 6.092,
+   "grade_v2": 0,
+   "sec_v2": 2.46
+  },
+  {
+   "qid": "674",
+   "docid": "2431404#69",
+   "human": 1,
+   "passage_len": 985,
+   "grade_v1": 3,
+   "sec_v1": 5.408,
+   "grade_v2": 3,
+   "sec_v2": 2.304
+  },
+  {
+   "qid": "1989",
+   "docid": "405974#38",
+   "human": 0,
+   "passage_len": 459,
+   "grade_v1": 3,
+   "sec_v1": 3.481,
+   "grade_v2": 3,
+   "sec_v2": 1.449
+  },
+  {
+   "qid": "5621",
+   "docid": "54700#16",
+   "human": 1,
+   "passage_len": 679,
+   "grade_v1": 1,
+   "sec_v1": 3.812,
+   "grade_v2": 0,
+   "sec_v2": 1.617
+  },
+  {
+   "qid": "2789",
+   "docid": "1534585#95",
+   "human": 0,
+   "passage_len": 261,
+   "grade_v1": 0,
+   "sec_v1": 2.392,
+   "grade_v2": 0,
+   "sec_v2": 1.161
+  },
+  {
+   "qid": "23",
+   "docid": "2881409#1",
+   "human": 0,
+   "passage_len": 274,
+   "grade_v1": 0,
+   "sec_v1": 2.253,
+   "grade_v2": 0,
+   "sec_v2": 1.027
+  },
+  {
+   "qid": "740",
+   "docid": "5240654#0",
+   "human": 1,
+   "passage_len": 452,
+   "grade_v1": 1,
+   "sec_v1": 3.551,
+   "grade_v2": 1,
+   "sec_v2": 1.443
+  },
+  {
+   "qid": "4555",
+   "docid": "3670001#3",
+   "human": 0,
+   "passage_len": 1429,
+   "grade_v1": 0,
+   "sec_v1": 6.748,
+   "grade_v2": 0,
+   "sec_v2": 3.168
+  },
+  {
+   "qid": "4349",
+   "docid": "4221112#3",
+   "human": 1,
+   "passage_len": 1175,
+   "grade_v1": 1,
+   "sec_v1": 5.333,
+   "grade_v2": 0,
+   "sec_v2": 2.576
+  },
+  {
+   "qid": "138",
+   "docid": "53598#73",
+   "human": 0,
+   "passage_len": 1082,
+   "grade_v1": 1,
+   "sec_v1": 5.31,
+   "grade_v2": 0,
+   "sec_v2": 2.52
+  },
+  {
+   "qid": "1978",
+   "docid": "92138#3",
+   "human": 0,
+   "passage_len": 918,
+   "grade_v1": 1,
+   "sec_v1": 4.291,
+   "grade_v2": 0,
+   "sec_v2": 2.031
+  },
+  {
+   "qid": "3915",
+   "docid": "355732#8",
+   "human": 0,
+   "passage_len": 1569,
+   "grade_v1": 0,
+   "sec_v1": 7.608,
+   "grade_v2": 0,
+   "sec_v2": 3.425
+  },
+  {
+   "qid": "4948",
+   "docid": "4016084#5",
+   "human": 0,
+   "passage_len": 173,
+   "grade_v1": 1,
+   "sec_v1": 2.094,
+   "grade_v2": 0,
+   "sec_v2": 0.873
+  },
+  {
+   "qid": "1451",
+   "docid": "550835#3",
+   "human": 1,
+   "passage_len": 742,
+   "grade_v1": 3,
+   "sec_v1": 3.004,
+   "grade_v2": 3,
+   "sec_v2": 1.772
+  },
+  {
+   "qid": "4378",
+   "docid": "6873061#65",
+   "human": 1,
+   "passage_len": 1163,
+   "grade_v1": 2,
+   "sec_v1": 4.681,
+   "grade_v2": 1,
+   "sec_v2": 2.414
+  },
+  {
+   "qid": "68",
+   "docid": "6211466#11",
+   "human": 1,
+   "passage_len": 2929,
+   "grade_v1": 1,
+   "sec_v1": 6.934,
+   "grade_v2": 1,
+   "sec_v2": 3.361
+  },
+  {
+   "qid": "3439",
+   "docid": "3994993#21",
+   "human": 0,
+   "passage_len": 757,
+   "grade_v1": 1,
+   "sec_v1": 3.75,
+   "grade_v2": 1,
+   "sec_v2": 1.949
+  },
+  {
+   "qid": "6393",
+   "docid": "1776721#28",
+   "human": 1,
+   "passage_len": 876,
+   "grade_v1": 2,
+   "sec_v1": 4.061,
+   "grade_v2": 1,
+   "sec_v2": 2.245
+  },
+  {
+   "qid": "1138",
+   "docid": "4708190#3",
+   "human": 0,
+   "passage_len": 752,
+   "grade_v1": 1,
+   "sec_v1": 3.298,
+   "grade_v2": 0,
+   "sec_v2": 1.784
+  },
+  {
+   "qid": "2458",
+   "docid": "5435574#85",
+   "human": 1,
+   "passage_len": 238,
+   "grade_v1": 1,
+   "sec_v1": 2.099,
+   "grade_v2": 1,
+   "sec_v2": 1.062
+  },
+  {
+   "qid": "4431",
+   "docid": "54022#47",
+   "human": 0,
+   "passage_len": 850,
+   "grade_v1": 2,
+   "sec_v1": 4.42,
+   "grade_v2": 0,
+   "sec_v2": 2.265
+  },
+  {
+   "qid": "6575",
+   "docid": "15996#132",
+   "human": 1,
+   "passage_len": 1065,
+   "grade_v1": 2,
+   "sec_v1": 4.915,
+   "grade_v2": 0,
+   "sec_v2": 2.573
+  },
+  {
+   "qid": "6549",
+   "docid": "393639#3",
+   "human": 1,
+   "passage_len": 279,
+   "grade_v1": 3,
+   "sec_v1": 2.111,
+   "grade_v2": 3,
+   "sec_v2": 1.191
+  },
+  {
+   "qid": "1910",
+   "docid": "6197620#1",
+   "human": 1,
+   "passage_len": 390,
+   "grade_v1": 3,
+   "sec_v1": 2.424,
+   "grade_v2": 3,
+   "sec_v2": 1.356
+  },
+  {
+   "qid": "2320",
+   "docid": "1141425#0",
+   "human": 0,
+   "passage_len": 1093,
+   "grade_v1": 1,
+   "sec_v1": 4.703,
+   "grade_v2": 1,
+   "sec_v2": 2.738
+  },
+  {
+   "qid": "1141",
+   "docid": "178476#0",
+   "human": 1,
+   "passage_len": 343,
+   "grade_v1": 2,
+   "sec_v1": 1.915,
+   "grade_v2": 3,
+   "sec_v2": 1.067
+  },
+  {
+   "qid": "6431",
+   "docid": "6926305#0",
+   "human": 0,
+   "passage_len": 425,
+   "grade_v1": 1,
+   "sec_v1": 2.596,
+   "grade_v2": 0,
+   "sec_v2": 1.359
+  },
+  {
+   "qid": "496",
+   "docid": "583065#4",
+   "human": 1,
+   "passage_len": 955,
+   "grade_v1": 0,
+   "sec_v1": 4.209,
+   "grade_v2": 0,
+   "sec_v2": 2.397
+  },
+  {
+   "qid": "6575",
+   "docid": "3476412#2",
+   "human": 0,
+   "passage_len": 518,
+   "grade_v1": 2,
+   "sec_v1": 2.883,
+   "grade_v2": 0,
+   "sec_v2": 1.494
+  },
+  {
+   "qid": "5237",
+   "docid": "158138#43",
+   "human": 1,
+   "passage_len": 654,
+   "grade_v1": 3,
+   "sec_v1": 3.75,
+   "grade_v2": 2,
+   "sec_v2": 1.782
+  },
+  {
+   "qid": "5369",
+   "docid": "116738#2",
+   "human": 0,
+   "passage_len": 205,
+   "grade_v1": 1,
+   "sec_v1": 1.825,
+   "grade_v2": 0,
+   "sec_v2": 0.9
+  },
+  {
+   "qid": "522",
+   "docid": "55370#84",
+   "human": 1,
+   "passage_len": 436,
+   "grade_v1": 2,
+   "sec_v1": 2.712,
+   "grade_v2": 1,
+   "sec_v2": 1.351
+  },
+  {
+   "qid": "5165",
+   "docid": "1513698#61",
+   "human": 1,
+   "passage_len": 1145,
+   "grade_v1": 2,
+   "sec_v1": 4.491,
+   "grade_v2": 3,
+   "sec_v2": 2.258
+  },
+  {
+   "qid": "4827",
+   "docid": "9819#75",
+   "human": 1,
+   "passage_len": 495,
+   "grade_v1": 1,
+   "sec_v1": 3.022,
+   "grade_v2": 0,
+   "sec_v2": 1.481
+  },
+  {
+   "qid": "4743",
+   "docid": "273920#22",
+   "human": 0,
+   "passage_len": 989,
+   "grade_v1": 1,
+   "sec_v1": 4.579,
+   "grade_v2": 1,
+   "sec_v2": 2.26
+  },
+  {
+   "qid": "3140",
+   "docid": "282680#42",
+   "human": 1,
+   "passage_len": 545,
+   "grade_v1": 1,
+   "sec_v1": 2.682,
+   "grade_v2": 1,
+   "sec_v2": 1.352
+  },
+  {
+   "qid": "2792",
+   "docid": "2626997#89",
+   "human": 0,
+   "passage_len": 605,
+   "grade_v1": 1,
+   "sec_v1": 2.979,
+   "grade_v2": 1,
+   "sec_v2": 1.494
+  },
+  {
+   "qid": "2684",
+   "docid": "5478511#3",
+   "human": 0,
+   "passage_len": 747,
+   "grade_v1": 0,
+   "sec_v1": 2.878,
+   "grade_v2": 0,
+   "sec_v2": 1.805
+  },
+  {
+   "qid": "6003",
+   "docid": "108362#69",
+   "human": 0,
+   "passage_len": 1017,
+   "grade_v1": 0,
+   "sec_v1": 4.631,
+   "grade_v2": 0,
+   "sec_v2": 2.267
+  },
+  {
+   "qid": "1056",
+   "docid": "2962291#24",
+   "human": 0,
+   "passage_len": 1058,
+   "grade_v1": 2,
+   "sec_v1": 5.102,
+   "grade_v2": 1,
+   "sec_v2": 2.582
+  },
+  {
+   "qid": "2024",
+   "docid": "91067#10",
+   "human": 0,
+   "passage_len": 584,
+   "grade_v1": 1,
+   "sec_v1": 3.004,
+   "grade_v2": 1,
+   "sec_v2": 1.485
+  },
+  {
+   "qid": "4126",
+   "docid": "275047#9",
+   "human": 0,
+   "passage_len": 992,
+   "grade_v1": 0,
+   "sec_v1": 4.55,
+   "grade_v2": 0,
+   "sec_v2": 2.266
+  },
+  {
+   "qid": "340",
+   "docid": "55082#10",
+   "human": 1,
+   "passage_len": 1106,
+   "grade_v1": 3,
+   "sec_v1": 5.41,
+   "grade_v2": 1,
+   "sec_v2": 2.718
+  },
+  {
+   "qid": "4089",
+   "docid": "1166337#5",
+   "human": 1,
+   "passage_len": 402,
+   "grade_v1": 0,
+   "sec_v1": 2.367,
+   "grade_v2": 0,
+   "sec_v2": 1.199
+  },
+  {
+   "qid": "4133",
+   "docid": "24738#13",
+   "human": 1,
+   "passage_len": 624,
+   "grade_v1": 2,
+   "sec_v1": 3.568,
+   "grade_v2": 1,
+   "sec_v2": 1.788
+  },
+  {
+   "qid": "1178",
+   "docid": "7#10",
+   "human": 0,
+   "passage_len": 532,
+   "grade_v1": 0,
+   "sec_v1": 2.987,
+   "grade_v2": 0,
+   "sec_v2": 1.484
+  },
+  {
+   "qid": "5129",
+   "docid": "635816#4",
+   "human": 0,
+   "passage_len": 1471,
+   "grade_v1": 0,
+   "sec_v1": 6.881,
+   "grade_v2": 0,
+   "sec_v2": 3.216
+  },
+  {
+   "qid": "4350",
+   "docid": "6272553#16",
+   "human": 1,
+   "passage_len": 1193,
+   "grade_v1": 2,
+   "sec_v1": 3.523,
+   "grade_v2": 1,
+   "sec_v2": 2.414
+  },
+  {
+   "qid": "4743",
+   "docid": "198577#144",
+   "human": 1,
+   "passage_len": 1206,
+   "grade_v1": 1,
+   "sec_v1": 5.202,
+   "grade_v2": 1,
+   "sec_v2": 2.58
+  },
+  {
+   "qid": "4047",
+   "docid": "335650#0",
+   "human": 1,
+   "passage_len": 257,
+   "grade_v1": 1,
+   "sec_v1": 1.773,
+   "grade_v2": 0,
+   "sec_v2": 0.905
+  },
+  {
+   "qid": "6443",
+   "docid": "3067933#3",
+   "human": 0,
+   "passage_len": 380,
+   "grade_v1": 1,
+   "sec_v1": 2.729,
+   "grade_v2": 0,
+   "sec_v2": 1.359
+  },
+  {
+   "qid": "1178",
+   "docid": "82293#1",
+   "human": 0,
+   "passage_len": 1015,
+   "grade_v1": 3,
+   "sec_v1": 4.841,
+   "grade_v2": 3,
+   "sec_v2": 2.422
+  },
+  {
+   "qid": "5157",
+   "docid": "9093#17",
+   "human": 1,
+   "passage_len": 173,
+   "grade_v1": 3,
+   "sec_v1": 1.842,
+   "grade_v2": 3,
+   "sec_v2": 0.906
+  },
+  {
+   "qid": "2523",
+   "docid": "3475272#2",
+   "human": 0,
+   "passage_len": 472,
+   "grade_v1": 0,
+   "sec_v1": 2.115,
+   "grade_v2": 0,
+   "sec_v2": 1.497
+  },
+  {
+   "qid": "3439",
+   "docid": "3994993#3",
+   "human": 1,
+   "passage_len": 198,
+   "grade_v1": 2,
+   "sec_v1": 2.112,
+   "grade_v2": 2,
+   "sec_v2": 1.06
+  },
+  {
+   "qid": "3355",
+   "docid": "9966#58",
+   "human": 1,
+   "passage_len": 466,
+   "grade_v1": 3,
+   "sec_v1": 2.992,
+   "grade_v2": 0,
+   "sec_v2": 1.494
+  },
+  {
+   "qid": "3439",
+   "docid": "3994993#15",
+   "human": 0,
+   "passage_len": 689,
+   "grade_v1": 1,
+   "sec_v1": 3.574,
+   "grade_v2": 1,
+   "sec_v2": 1.798
+  },
+  {
+   "qid": "3052",
+   "docid": "6710313#1",
+   "human": 1,
+   "passage_len": 368,
+   "grade_v1": 3,
+   "sec_v1": 1.158,
+   "grade_v2": 3,
+   "sec_v2": 1.198
+  },
+  {
+   "qid": "4441",
+   "docid": "45832#25",
+   "human": 0,
+   "passage_len": 1142,
+   "grade_v1": 1,
+   "sec_v1": 5.19,
+   "grade_v2": 1,
+   "sec_v2": 2.586
+  },
+  {
+   "qid": "4890",
+   "docid": "50580#40",
+   "human": 0,
+   "passage_len": 848,
+   "grade_v1": 2,
+   "sec_v1": 3.866,
+   "grade_v2": 1,
+   "sec_v2": 1.961
+  },
+  {
+   "qid": "4743",
+   "docid": "273920#1",
+   "human": 1,
+   "passage_len": 2322,
+   "grade_v1": 2,
+   "sec_v1": 5.292,
+   "grade_v2": 1,
+   "sec_v2": 3.527
+  },
+  {
+   "qid": "6443",
+   "docid": "638850#3",
+   "human": 1,
+   "passage_len": 313,
+   "grade_v1": 2,
+   "sec_v1": 1.321,
+   "grade_v2": 2,
+   "sec_v2": 1.066
+  },
+  {
+   "qid": "6003",
+   "docid": "4209592#2",
+   "human": 1,
+   "passage_len": 415,
+   "grade_v1": 3,
+   "sec_v1": 1.811,
+   "grade_v2": 3,
+   "sec_v2": 1.327
+  },
+  {
+   "qid": "3669",
+   "docid": "14091#19",
+   "human": 1,
+   "passage_len": 928,
+   "grade_v1": 1,
+   "sec_v1": 2.253,
+   "grade_v2": 0,
+   "sec_v2": 2.046
+  },
+  {
+   "qid": "1070",
+   "docid": "146510#20",
+   "human": 0,
+   "passage_len": 1593,
+   "grade_v1": 1,
+   "sec_v1": 3.664,
+   "grade_v2": 0,
+   "sec_v2": 3.447
+  },
+  {
+   "qid": "522",
+   "docid": "16083#0",
+   "human": 1,
+   "passage_len": 466,
+   "grade_v1": 3,
+   "sec_v1": 1.497,
+   "grade_v2": 3,
+   "sec_v2": 1.461
+  },
+  {
+   "qid": "3732",
+   "docid": "4973962#1",
+   "human": 0,
+   "passage_len": 1821,
+   "grade_v1": 0,
+   "sec_v1": 6.433,
+   "grade_v2": 0,
+   "sec_v2": 3.766
+  },
+  {
+   "qid": "6655",
+   "docid": "346963#0",
+   "human": 0,
+   "passage_len": 287,
+   "grade_v1": 0,
+   "sec_v1": 2.693,
+   "grade_v2": 0,
+   "sec_v2": 1.327
+  },
+  {
+   "qid": "4358",
+   "docid": "980997#78",
+   "human": 0,
+   "passage_len": 897,
+   "grade_v1": 1,
+   "sec_v1": 4.157,
+   "grade_v2": 0,
+   "sec_v2": 2.047
+  },
+  {
+   "qid": "4089",
+   "docid": "6012409#0",
+   "human": 0,
+   "passage_len": 421,
+   "grade_v1": 0,
+   "sec_v1": 3.009,
+   "grade_v2": 0,
+   "sec_v2": 1.489
+  },
+  {
+   "qid": "4205",
+   "docid": "3003815#58",
+   "human": 0,
+   "passage_len": 1037,
+   "grade_v1": 1,
+   "sec_v1": 4.55,
+   "grade_v2": 0,
+   "sec_v2": 2.244
+  },
+  {
+   "qid": "6549",
+   "docid": "513284#0",
+   "human": 1,
+   "passage_len": 760,
+   "grade_v1": 1,
+   "sec_v1": 3.692,
+   "grade_v2": 1,
+   "sec_v2": 1.778
+  },
+  {
+   "qid": "3561",
+   "docid": "1352817#40",
+   "human": 0,
+   "passage_len": 1785,
+   "grade_v1": 1,
+   "sec_v1": 7.714,
+   "grade_v2": 0,
+   "sec_v2": 4.424
+  },
+  {
+   "qid": "4948",
+   "docid": "232267#2",
+   "human": 0,
+   "passage_len": 843,
+   "grade_v1": 0,
+   "sec_v1": 4.396,
+   "grade_v2": 0,
+   "sec_v2": 2.082
+  },
+  {
+   "qid": "6549",
+   "docid": "47699#1",
+   "human": 1,
+   "passage_len": 558,
+   "grade_v1": 1,
+   "sec_v1": 3.249,
+   "grade_v2": 1,
+   "sec_v2": 1.473
+  },
+  {
+   "qid": "2716",
+   "docid": "625313#23",
+   "human": 1,
+   "passage_len": 1018,
+   "grade_v1": 2,
+   "sec_v1": 3.443,
+   "grade_v2": 0,
+   "sec_v2": 1.939
+  },
+  {
+   "qid": "1015",
+   "docid": "3198499#0",
+   "human": 0,
+   "passage_len": 523,
+   "grade_v1": 0,
+   "sec_v1": 2.621,
+   "grade_v2": 0,
+   "sec_v2": 1.357
+  },
+  {
+   "qid": "4688",
+   "docid": "173567#26",
+   "human": 0,
+   "passage_len": 696,
+   "grade_v1": 0,
+   "sec_v1": 2.982,
+   "grade_v2": 0,
+   "sec_v2": 1.938
+  },
+  {
+   "qid": "6603",
+   "docid": "2853257#23",
+   "human": 1,
+   "passage_len": 633,
+   "grade_v1": 3,
+   "sec_v1": 3.622,
+   "grade_v2": 3,
+   "sec_v2": 1.646
+  },
+  {
+   "qid": "4607",
+   "docid": "4746792#3",
+   "human": 0,
+   "passage_len": 4223,
+   "grade_v1": 1,
+   "sec_v1": 8.57,
+   "grade_v2": 1,
+   "sec_v2": 3.784
+  },
+  {
+   "qid": "4064",
+   "docid": "398650#0",
+   "human": 0,
+   "passage_len": 863,
+   "grade_v1": 1,
+   "sec_v1": 4.634,
+   "grade_v2": 0,
+   "sec_v2": 2.093
+  },
+  {
+   "qid": "4133",
+   "docid": "7236731#37",
+   "human": 0,
+   "passage_len": 789,
+   "grade_v1": 1,
+   "sec_v1": 4.302,
+   "grade_v2": 1,
+   "sec_v2": 1.945
+  },
+  {
+   "qid": "6443",
+   "docid": "5960642#1",
+   "human": 0,
+   "passage_len": 922,
+   "grade_v1": 2,
+   "sec_v1": 5.736,
+   "grade_v2": 1,
+   "sec_v2": 2.392
+  },
+  {
+   "qid": "4199",
+   "docid": "170682#18",
+   "human": 1,
+   "passage_len": 2161,
+   "grade_v1": 1,
+   "sec_v1": 7.608,
+   "grade_v2": 0,
+   "sec_v2": 3.492
+  },
+  {
+   "qid": "3833",
+   "docid": "4779653#40",
+   "human": 0,
+   "passage_len": 272,
+   "grade_v1": 1,
+   "sec_v1": 2.635,
+   "grade_v2": 1,
+   "sec_v2": 1.186
+  },
+  {
+   "qid": "5369",
+   "docid": "6205481#15",
+   "human": 0,
+   "passage_len": 1319,
+   "grade_v1": 3,
+   "sec_v1": 6.688,
+   "grade_v2": 1,
+   "sec_v2": 2.911
+  },
+  {
+   "qid": "6564",
+   "docid": "5918486#2",
+   "human": 0,
+   "passage_len": 2157,
+   "grade_v1": 3,
+   "sec_v1": 10.221,
+   "grade_v2": 3,
+   "sec_v2": 4.243
+  },
+  {
+   "qid": "3717",
+   "docid": "951191#0",
+   "human": 1,
+   "passage_len": 697,
+   "grade_v1": 3,
+   "sec_v1": 4.598,
+   "grade_v2": 3,
+   "sec_v2": 1.94
+  },
+  {
+   "qid": "6163",
+   "docid": "4953888#0",
+   "human": 1,
+   "passage_len": 316,
+   "grade_v1": 3,
+   "sec_v1": 4.677,
+   "grade_v2": 3,
+   "sec_v2": 1.058
+  },
+  {
+   "qid": "1844",
+   "docid": "11314#1",
+   "human": 1,
+   "passage_len": 255,
+   "grade_v1": 3,
+   "sec_v1": 2.483,
+   "grade_v2": 0,
+   "sec_v2": 1.062
+  },
+  {
+   "qid": "73",
+   "docid": "1544747#36",
+   "human": 0,
+   "passage_len": 1361,
+   "grade_v1": 3,
+   "sec_v1": 6.921,
+   "grade_v2": 1,
+   "sec_v2": 3.025
+  },
+  {
+   "qid": "6163",
+   "docid": "4953253#2",
+   "human": 1,
+   "passage_len": 548,
+   "grade_v1": 1,
+   "sec_v1": 3.142,
+   "grade_v2": 1,
+   "sec_v2": 1.358
+  },
+  {
+   "qid": "5555",
+   "docid": "146993#0",
+   "human": 1,
+   "passage_len": 766,
+   "grade_v1": 3,
+   "sec_v1": 4.977,
+   "grade_v2": 3,
+   "sec_v2": 2.088
+  },
+  {
+   "qid": "4050",
+   "docid": "34228#30",
+   "human": 0,
+   "passage_len": 1216,
+   "grade_v1": 2,
+   "sec_v1": 6.406,
+   "grade_v2": 1,
+   "sec_v2": 2.721
+  },
+  {
+   "qid": "5731",
+   "docid": "537#11",
+   "human": 0,
+   "passage_len": 1545,
+   "grade_v1": 3,
+   "sec_v1": 7.917,
+   "grade_v2": 1,
+   "sec_v2": 3.344
+  },
+  {
+   "qid": "4827",
+   "docid": "213579#41",
+   "human": 1,
+   "passage_len": 504,
+   "grade_v1": 2,
+   "sec_v1": 2.795,
+   "grade_v2": 1,
+   "sec_v2": 1.458
+  },
+  {
+   "qid": "68",
+   "docid": "6211466#9",
+   "human": 1,
+   "passage_len": 2581,
+   "grade_v1": 2,
+   "sec_v1": 7.813,
+   "grade_v2": 1,
+   "sec_v2": 3.434
+  },
+  {
+   "qid": "5867",
+   "docid": "345073#16",
+   "human": 1,
+   "passage_len": 543,
+   "grade_v1": 1,
+   "sec_v1": 3.41,
+   "grade_v2": 1,
+   "sec_v2": 1.485
+  },
+  {
+   "qid": "666",
+   "docid": "4441000#66",
+   "human": 0,
+   "passage_len": 547,
+   "grade_v1": 0,
+   "sec_v1": 3.848,
+   "grade_v2": 0,
+   "sec_v2": 1.642
+  },
+  {
+   "qid": "4804",
+   "docid": "5022607#0",
+   "human": 1,
+   "passage_len": 486,
+   "grade_v1": 1,
+   "sec_v1": 3.793,
+   "grade_v2": 1,
+   "sec_v2": 1.645
+  },
+  {
+   "qid": "5875",
+   "docid": "631972#1",
+   "human": 0,
+   "passage_len": 785,
+   "grade_v1": 0,
+   "sec_v1": 4.901,
+   "grade_v2": 0,
+   "sec_v2": 2.085
+  },
+  {
+   "qid": "5163",
+   "docid": "7551336#3",
+   "human": 0,
+   "passage_len": 140,
+   "grade_v1": 1,
+   "sec_v1": 1.981,
+   "grade_v2": 0,
+   "sec_v2": 0.878
+  },
+  {
+   "qid": "4099",
+   "docid": "3363531#1",
+   "human": 0,
+   "passage_len": 354,
+   "grade_v1": 0,
+   "sec_v1": 2.805,
+   "grade_v2": 0,
+   "sec_v2": 1.322
+  },
+  {
+   "qid": "4714",
+   "docid": "757655#0",
+   "human": 0,
+   "passage_len": 274,
+   "grade_v1": 0,
+   "sec_v1": 2.559,
+   "grade_v2": 0,
+   "sec_v2": 1.168
+  },
+  {
+   "qid": "6549",
+   "docid": "47699#5",
+   "human": 1,
+   "passage_len": 997,
+   "grade_v1": 3,
+   "sec_v1": 5.06,
+   "grade_v2": 3,
+   "sec_v2": 2.373
+  },
+  {
+   "qid": "3272",
+   "docid": "14023#0",
+   "human": 0,
+   "passage_len": 190,
+   "grade_v1": 2,
+   "sec_v1": 2.538,
+   "grade_v2": 1,
+   "sec_v2": 1.177
+  },
+  {
+   "qid": "5731",
+   "docid": "537#6",
+   "human": 1,
+   "passage_len": 330,
+   "grade_v1": 3,
+   "sec_v1": 2.523,
+   "grade_v2": 3,
+   "sec_v2": 1.174
+  },
+  {
+   "qid": "2730",
+   "docid": "4068722#1",
+   "human": 1,
+   "passage_len": 1180,
+   "grade_v1": 2,
+   "sec_v1": 6.291,
+   "grade_v2": 1,
+   "sec_v2": 2.748
+  },
+  {
+   "qid": "75",
+   "docid": "4540249#5",
+   "human": 1,
+   "passage_len": 578,
+   "grade_v1": 2,
+   "sec_v1": 3.837,
+   "grade_v2": 1,
+   "sec_v2": 1.75
+  },
+  {
+   "qid": "666",
+   "docid": "3122624#2",
+   "human": 1,
+   "passage_len": 697,
+   "grade_v1": 3,
+   "sec_v1": 4.119,
+   "grade_v2": 3,
+   "sec_v2": 1.917
+  },
+  {
+   "qid": "4296",
+   "docid": "892655#4",
+   "human": 1,
+   "passage_len": 1019,
+   "grade_v1": 2,
+   "sec_v1": 4.182,
+   "grade_v2": 1,
+   "sec_v2": 2.232
+  },
+  {
+   "qid": "4050",
+   "docid": "34228#88",
+   "human": 1,
+   "passage_len": 1375,
+   "grade_v1": 2,
+   "sec_v1": 4.549,
+   "grade_v2": 1,
+   "sec_v2": 3.018
+  },
+  {
+   "qid": "2255",
+   "docid": "193215#3",
+   "human": 0,
+   "passage_len": 775,
+   "grade_v1": 0,
+   "sec_v1": 2.662,
+   "grade_v2": 0,
+   "sec_v2": 1.931
+  },
+  {
+   "qid": "1041",
+   "docid": "58142#1",
+   "human": 1,
+   "passage_len": 251,
+   "grade_v1": 2,
+   "sec_v1": 2.59,
+   "grade_v2": 2,
+   "sec_v2": 1.05
+  },
+  {
+   "qid": "5048",
+   "docid": "41099#5",
+   "human": 0,
+   "passage_len": 479,
+   "grade_v1": 1,
+   "sec_v1": 2.5,
+   "grade_v2": 0,
+   "sec_v2": 1.468
+  },
+  {
+   "qid": "5865",
+   "docid": "85619#3",
+   "human": 1,
+   "passage_len": 1539,
+   "grade_v1": 3,
+   "sec_v1": 6.659,
+   "grade_v2": 1,
+   "sec_v2": 3.176
+  },
+  {
+   "qid": "3587",
+   "docid": "872409#6",
+   "human": 1,
+   "passage_len": 1112,
+   "grade_v1": 2,
+   "sec_v1": 5.312,
+   "grade_v2": 1,
+   "sec_v2": 2.541
+  },
+  {
+   "qid": "1078",
+   "docid": "242074#3",
+   "human": 1,
+   "passage_len": 431,
+   "grade_v1": 2,
+   "sec_v1": 2.773,
+   "grade_v2": 1,
+   "sec_v2": 1.34
+  },
+  {
+   "qid": "2684",
+   "docid": "608#65",
+   "human": 0,
+   "passage_len": 462,
+   "grade_v1": 1,
+   "sec_v1": 2.802,
+   "grade_v2": 0,
+   "sec_v2": 1.335
+  },
+  {
+   "qid": "3377",
+   "docid": "117444#16",
+   "human": 1,
+   "passage_len": 1845,
+   "grade_v1": 3,
+   "sec_v1": 8.817,
+   "grade_v2": 3,
+   "sec_v2": 4.061
+  },
+  {
+   "qid": "4317",
+   "docid": "284773#4",
+   "human": 0,
+   "passage_len": 785,
+   "grade_v1": 0,
+   "sec_v1": 4.381,
+   "grade_v2": 0,
+   "sec_v2": 1.922
+  },
+  {
+   "qid": "3140",
+   "docid": "4572#9",
+   "human": 1,
+   "passage_len": 671,
+   "grade_v1": 2,
+   "sec_v1": 2.545,
+   "grade_v2": 1,
+   "sec_v2": 1.467
+  },
+  {
+   "qid": "2955",
+   "docid": "244431#40",
+   "human": 0,
+   "passage_len": 846,
+   "grade_v1": 2,
+   "sec_v1": 4.062,
+   "grade_v2": 1,
+   "sec_v2": 1.924
+  },
+  {
+   "qid": "4816",
+   "docid": "5987221#48",
+   "human": 0,
+   "passage_len": 595,
+   "grade_v1": 2,
+   "sec_v1": 2.499,
+   "grade_v2": 0,
+   "sec_v2": 1.617
+  },
+  {
+   "qid": "264",
+   "docid": "1422865#6",
+   "human": 0,
+   "passage_len": 649,
+   "grade_v1": 1,
+   "sec_v1": 3.711,
+   "grade_v2": 0,
+   "sec_v2": 1.715
+  },
+  {
+   "qid": "3438",
+   "docid": "267023#13",
+   "human": 1,
+   "passage_len": 561,
+   "grade_v1": 1,
+   "sec_v1": 3.125,
+   "grade_v2": 0,
+   "sec_v2": 1.441
+  },
+  {
+   "qid": "2955",
+   "docid": "244431#9",
+   "human": 1,
+   "passage_len": 3167,
+   "grade_v1": 3,
+   "sec_v1": 7.335,
+   "grade_v2": 3,
+   "sec_v2": 3.642
+  },
+  {
+   "qid": "6469",
+   "docid": "2663035#3",
+   "human": 0,
+   "passage_len": 338,
+   "grade_v1": 0,
+   "sec_v1": 2.459,
+   "grade_v2": 0,
+   "sec_v2": 1.305
+  },
+  {
+   "qid": "4149",
+   "docid": "17603#4",
+   "human": 1,
+   "passage_len": 520,
+   "grade_v1": 3,
+   "sec_v1": 3.094,
+   "grade_v2": 3,
+   "sec_v2": 1.512
+  },
+  {
+   "qid": "1207",
+   "docid": "564149#0",
+   "human": 1,
+   "passage_len": 265,
+   "grade_v1": 1,
+   "sec_v1": 2.441,
+   "grade_v2": 0,
+   "sec_v2": 1.187
+  },
+  {
+   "qid": "3717",
+   "docid": "360127#34",
+   "human": 0,
+   "passage_len": 1339,
+   "grade_v1": 1,
+   "sec_v1": 6.07,
+   "grade_v2": 0,
+   "sec_v2": 2.838
+  },
+  {
+   "qid": "740",
+   "docid": "4347829#1",
+   "human": 0,
+   "passage_len": 1213,
+   "grade_v1": 3,
+   "sec_v1": 3.885,
+   "grade_v2": 3,
+   "sec_v2": 2.611
+  },
+  {
+   "qid": "2339",
+   "docid": "2892320#4",
+   "human": 0,
+   "passage_len": 1063,
+   "grade_v1": 1,
+   "sec_v1": 3.284,
+   "grade_v2": 0,
+   "sec_v2": 2.302
+  },
+  {
+   "qid": "779",
+   "docid": "1261580#1",
+   "human": 0,
+   "passage_len": 840,
+   "grade_v1": 0,
+   "sec_v1": 4.287,
+   "grade_v2": 0,
+   "sec_v2": 1.913
+  },
+  {
+   "qid": "5338",
+   "docid": "193523#0",
+   "human": 0,
+   "passage_len": 493,
+   "grade_v1": 3,
+   "sec_v1": 3.036,
+   "grade_v2": 3,
+   "sec_v2": 1.425
+  },
+  {
+   "qid": "3276",
+   "docid": "89486#76",
+   "human": 0,
+   "passage_len": 1477,
+   "grade_v1": 2,
+   "sec_v1": 6.387,
+   "grade_v2": 0,
+   "sec_v2": 2.913
+  },
+  {
+   "qid": "6079",
+   "docid": "34919#14",
+   "human": 0,
+   "passage_len": 341,
+   "grade_v1": 1,
+   "sec_v1": 2.436,
+   "grade_v2": 0,
+   "sec_v2": 1.137
+  },
+  {
+   "qid": "683",
+   "docid": "3111720#1",
+   "human": 1,
+   "passage_len": 978,
+   "grade_v1": 3,
+   "sec_v1": 3.311,
+   "grade_v2": 3,
+   "sec_v2": 2.006
+  },
+  {
+   "qid": "3587",
+   "docid": "2667249#1",
+   "human": 0,
+   "passage_len": 427,
+   "grade_v1": 0,
+   "sec_v1": 2.06,
+   "grade_v2": 0,
+   "sec_v2": 1.305
+  },
+  {
+   "qid": "6015",
+   "docid": "1749946#8",
+   "human": 0,
+   "passage_len": 488,
+   "grade_v1": 1,
+   "sec_v1": 3.092,
+   "grade_v2": 0,
+   "sec_v2": 1.42
+  },
+  {
+   "qid": "319",
+   "docid": "2431404#14",
+   "human": 1,
+   "passage_len": 1310,
+   "grade_v1": 3,
+   "sec_v1": 5.651,
+   "grade_v2": 3,
+   "sec_v2": 2.611
+  },
+  {
+   "qid": "2366",
+   "docid": "2149208#9",
+   "human": 0,
+   "passage_len": 558,
+   "grade_v1": 0,
+   "sec_v1": 3.398,
+   "grade_v2": 0,
+   "sec_v2": 1.573
+  },
+  {
+   "qid": "1736",
+   "docid": "2104931#2",
+   "human": 1,
+   "passage_len": 637,
+   "grade_v1": 3,
+   "sec_v1": 3.705,
+   "grade_v2": 3,
+   "sec_v2": 1.698
+  },
+  {
+   "qid": "604",
+   "docid": "3680209#3",
+   "human": 1,
+   "passage_len": 630,
+   "grade_v1": 3,
+   "sec_v1": 3.104,
+   "grade_v2": 3,
+   "sec_v2": 1.417
+  },
+  {
+   "qid": "6443",
+   "docid": "2695870#23",
+   "human": 0,
+   "passage_len": 646,
+   "grade_v1": 1,
+   "sec_v1": 3.67,
+   "grade_v2": 0,
+   "sec_v2": 1.698
+  },
+  {
+   "qid": "3732",
+   "docid": "131291#0",
+   "human": 0,
+   "passage_len": 836,
+   "grade_v1": 1,
+   "sec_v1": 4.683,
+   "grade_v2": 0,
+   "sec_v2": 2.15
+  },
+  {
+   "qid": "5979",
+   "docid": "2199955#67",
+   "human": 0,
+   "passage_len": 627,
+   "grade_v1": 2,
+   "sec_v1": 3.39,
+   "grade_v2": 1,
+   "sec_v2": 1.579
+  },
+  {
+   "qid": "2372",
+   "docid": "382093#14",
+   "human": 0,
+   "passage_len": 741,
+   "grade_v1": 1,
+   "sec_v1": 4.056,
+   "grade_v2": 0,
+   "sec_v2": 1.855
+  },
+  {
+   "qid": "5228",
+   "docid": "10662#84",
+   "human": 0,
+   "passage_len": 785,
+   "grade_v1": 1,
+   "sec_v1": 3.704,
+   "grade_v2": 0,
+   "sec_v2": 1.708
+  },
+  {
+   "qid": "75",
+   "docid": "5266272#1",
+   "human": 1,
+   "passage_len": 529,
+   "grade_v1": 2,
+   "sec_v1": 3.333,
+   "grade_v2": 2,
+   "sec_v2": 1.573
+  },
+  {
+   "qid": "3708",
+   "docid": "343340#1",
+   "human": 0,
+   "passage_len": 1031,
+   "grade_v1": 2,
+   "sec_v1": 5.314,
+   "grade_v2": 1,
+   "sec_v2": 2.447
+  },
+  {
+   "qid": "4107",
+   "docid": "16824#0",
+   "human": 1,
+   "passage_len": 399,
+   "grade_v1": 3,
+   "sec_v1": 2.809,
+   "grade_v2": 3,
+   "sec_v2": 1.298
+  },
+  {
+   "qid": "4349",
+   "docid": "123440#7",
+   "human": 0,
+   "passage_len": 1104,
+   "grade_v1": 0,
+   "sec_v1": 4.711,
+   "grade_v2": 0,
+   "sec_v2": 2.16
+  },
+  {
+   "qid": "1910",
+   "docid": "7072803#2",
+   "human": 1,
+   "passage_len": 599,
+   "grade_v1": 1,
+   "sec_v1": 3.334,
+   "grade_v2": 1,
+   "sec_v2": 1.569
+  },
+  {
+   "qid": "1056",
+   "docid": "2945666#2",
+   "human": 1,
+   "passage_len": 228,
+   "grade_v1": 3,
+   "sec_v1": 2.391,
+   "grade_v2": 3,
+   "sec_v2": 1.01
+  },
+  {
+   "qid": "6729",
+   "docid": "3151947#3",
+   "human": 1,
+   "passage_len": 1126,
+   "grade_v1": 1,
+   "sec_v1": 4.078,
+   "grade_v2": 3,
+   "sec_v2": 2.284
+  },
+  {
+   "qid": "4932",
+   "docid": "50621#3",
+   "human": 1,
+   "passage_len": 1406,
+   "grade_v1": 2,
+   "sec_v1": 3.894,
+   "grade_v2": 2,
+   "sec_v2": 3.068
+  },
+  {
+   "qid": "1138",
+   "docid": "6663273#2",
+   "human": 0,
+   "passage_len": 862,
+   "grade_v1": 2,
+   "sec_v1": 3.748,
+   "grade_v2": 0,
+   "sec_v2": 1.709
+  },
+  {
+   "qid": "3377",
+   "docid": "117444#0",
+   "human": 1,
+   "passage_len": 468,
+   "grade_v1": 1,
+   "sec_v1": 2.288,
+   "grade_v2": 3,
+   "sec_v2": 1.572
+  },
+  {
+   "qid": "4096",
+   "docid": "2105493#0",
+   "human": 1,
+   "passage_len": 360,
+   "grade_v1": 3,
+   "sec_v1": 1.697,
+   "grade_v2": 1,
+   "sec_v2": 1.298
+  },
+  {
+   "qid": "3915",
+   "docid": "355732#0",
+   "human": 0,
+   "passage_len": 221,
+   "grade_v1": 3,
+   "sec_v1": 1.387,
+   "grade_v2": 0,
+   "sec_v2": 1.019
+  },
+  {
+   "qid": "1844",
+   "docid": "6844646#1",
+   "human": 1,
+   "passage_len": 322,
+   "grade_v1": 2,
+   "sec_v1": 1.525,
+   "grade_v2": 0,
+   "sec_v2": 1.139
+  },
+  {
+   "qid": "3833",
+   "docid": "4779653#0",
+   "human": 1,
+   "passage_len": 357,
+   "grade_v1": 2,
+   "sec_v1": 1.81,
+   "grade_v2": 3,
+   "sec_v2": 1.291
+  },
+  {
+   "qid": "4515",
+   "docid": "434938#21",
+   "human": 0,
+   "passage_len": 1370,
+   "grade_v1": 0,
+   "sec_v1": 2.576,
+   "grade_v2": 0,
+   "sec_v2": 2.585
+  },
+  {
+   "qid": "5683",
+   "docid": "2841#7",
+   "human": 1,
+   "passage_len": 493,
+   "grade_v1": 3,
+   "sec_v1": 1.41,
+   "grade_v2": 3,
+   "sec_v2": 1.425
+  },
+  {
+   "qid": "6658",
+   "docid": "21837#24",
+   "human": 0,
+   "passage_len": 320,
+   "grade_v1": 1,
+   "sec_v1": 1.007,
+   "grade_v2": 2,
+   "sec_v2": 1.019
+  },
+  {
+   "qid": "3128",
+   "docid": "163479#0",
+   "human": 0,
+   "passage_len": 470,
+   "grade_v1": 0,
+   "sec_v1": 1.677,
+   "grade_v2": 0,
+   "sec_v2": 1.726
+  },
+  {
+   "qid": "1207",
+   "docid": "1748484#12",
+   "human": 0,
+   "passage_len": 763,
+   "grade_v1": 2,
+   "sec_v1": 3.461,
+   "grade_v2": 0,
+   "sec_v2": 1.916
+  },
+  {
+   "qid": "2255",
+   "docid": "34406#23",
+   "human": 1,
+   "passage_len": 176,
+   "grade_v1": 3,
+   "sec_v1": 1.851,
+   "grade_v2": 3,
+   "sec_v2": 0.872
+  },
+  {
+   "qid": "3171",
+   "docid": "178208#33",
+   "human": 0,
+   "passage_len": 1802,
+   "grade_v1": 1,
+   "sec_v1": 8.799,
+   "grade_v2": 1,
+   "sec_v2": 4.364
+  },
+  {
+   "qid": "1078",
+   "docid": "3987149#0",
+   "human": 0,
+   "passage_len": 551,
+   "grade_v1": 0,
+   "sec_v1": 3.611,
+   "grade_v2": 0,
+   "sec_v2": 1.7
+  },
+  {
+   "qid": "4767",
+   "docid": "311739#9",
+   "human": 1,
+   "passage_len": 700,
+   "grade_v1": 2,
+   "sec_v1": 3.237,
+   "grade_v2": 0,
+   "sec_v2": 1.858
+  },
+  {
+   "qid": "2730",
+   "docid": "4018038#77",
+   "human": 1,
+   "passage_len": 2249,
+   "grade_v1": 1,
+   "sec_v1": 6.953,
+   "grade_v2": 1,
+   "sec_v2": 3.937
+  },
+  {
+   "qid": "2830",
+   "docid": "46906#22",
+   "human": 1,
+   "passage_len": 831,
+   "grade_v1": 1,
+   "sec_v1": 4.033,
+   "grade_v2": 1,
+   "sec_v2": 1.866
+  },
+  {
+   "qid": "1056",
+   "docid": "1830#26",
+   "human": 1,
+   "passage_len": 1969,
+   "grade_v1": 3,
+   "sec_v1": 6.244,
+   "grade_v2": 3,
+   "sec_v2": 3.523
+  },
+  {
+   "qid": "6015",
+   "docid": "90317#6",
+   "human": 1,
+   "passage_len": 802,
+   "grade_v1": 2,
+   "sec_v1": 3.272,
+   "grade_v2": 3,
+   "sec_v2": 2.025
+  },
+  {
+   "qid": "1135",
+   "docid": "1741109#4",
+   "human": 1,
+   "passage_len": 664,
+   "grade_v1": 1,
+   "sec_v1": 3.968,
+   "grade_v2": 1,
+   "sec_v2": 1.728
+  },
+  {
+   "qid": "1062",
+   "docid": "35533#1",
+   "human": 1,
+   "passage_len": 206,
+   "grade_v1": 3,
+   "sec_v1": 2.239,
+   "grade_v2": 3,
+   "sec_v2": 1.015
+  },
+  {
+   "qid": "3915",
+   "docid": "355732#5",
+   "human": 1,
+   "passage_len": 734,
+   "grade_v1": 1,
+   "sec_v1": 3.997,
+   "grade_v2": 0,
+   "sec_v2": 2.008
+  },
+  {
+   "qid": "2618",
+   "docid": "4625919#2",
+   "human": 0,
+   "passage_len": 812,
+   "grade_v1": 2,
+   "sec_v1": 4.037,
+   "grade_v2": 0,
+   "sec_v2": 1.892
+  },
+  {
+   "qid": "4714",
+   "docid": "1924009#4",
+   "human": 0,
+   "passage_len": 779,
+   "grade_v1": 0,
+   "sec_v1": 4.386,
+   "grade_v2": 0,
+   "sec_v2": 2.042
+  },
+  {
+   "qid": "4378",
+   "docid": "6873061#0",
+   "human": 0,
+   "passage_len": 2067,
+   "grade_v1": 0,
+   "sec_v1": 6.994,
+   "grade_v2": 1,
+   "sec_v2": 3.409
+  },
+  {
+   "qid": "1978",
+   "docid": "2627002#0",
+   "human": 0,
+   "passage_len": 327,
+   "grade_v1": 0,
+   "sec_v1": 3.378,
+   "grade_v2": 0,
+   "sec_v2": 1.301
+  },
+  {
+   "qid": "2026",
+   "docid": "3684484#0",
+   "human": 1,
+   "passage_len": 277,
+   "grade_v1": 2,
+   "sec_v1": 2.141,
+   "grade_v2": 2,
+   "sec_v2": 1.018
+  },
+  {
+   "qid": "4133",
+   "docid": "24738#126",
+   "human": 1,
+   "passage_len": 1031,
+   "grade_v1": 2,
+   "sec_v1": 6.103,
+   "grade_v2": 1,
+   "sec_v2": 2.307
+  },
+  {
+   "qid": "5740",
+   "docid": "148931#5",
+   "human": 0,
+   "passage_len": 719,
+   "grade_v1": 0,
+   "sec_v1": 2.746,
+   "grade_v2": 0,
+   "sec_v2": 1.875
+  },
+  {
+   "qid": "6248",
+   "docid": "3027#26",
+   "human": 1,
+   "passage_len": 491,
+   "grade_v1": 3,
+   "sec_v1": 1.689,
+   "grade_v2": 2,
+   "sec_v2": 1.316
+  },
+  {
+   "qid": "6291",
+   "docid": "133804#6",
+   "human": 1,
+   "passage_len": 2221,
+   "grade_v1": 0,
+   "sec_v1": 4.779,
+   "grade_v2": 0,
+   "sec_v2": 3.836
+  },
+  {
+   "qid": "73",
+   "docid": "2005528#0",
+   "human": 0,
+   "passage_len": 478,
+   "grade_v1": 0,
+   "sec_v1": 1.665,
+   "grade_v2": 0,
+   "sec_v2": 1.444
+  },
+  {
+   "qid": "2844",
+   "docid": "5726964#6",
+   "human": 0,
+   "passage_len": 320,
+   "grade_v1": 1,
+   "sec_v1": 1.542,
+   "grade_v2": 0,
+   "sec_v2": 1.149
+  },
+  {
+   "qid": "138",
+   "docid": "53598#20",
+   "human": 0,
+   "passage_len": 1027,
+   "grade_v1": 1,
+   "sec_v1": 4.123,
+   "grade_v2": 1,
+   "sec_v2": 2.317
+  },
+  {
+   "qid": "5369",
+   "docid": "21320#73",
+   "human": 0,
+   "passage_len": 1359,
+   "grade_v1": 1,
+   "sec_v1": 4.24,
+   "grade_v2": 0,
+   "sec_v2": 2.653
+  },
+  {
+   "qid": "3708",
+   "docid": "4229668#5",
+   "human": 0,
+   "passage_len": 838,
+   "grade_v1": 0,
+   "sec_v1": 2.955,
+   "grade_v2": 0,
+   "sec_v2": 1.876
+  },
+  {
+   "qid": "6479",
+   "docid": "6784182#5",
+   "human": 1,
+   "passage_len": 957,
+   "grade_v1": 2,
+   "sec_v1": 4.087,
+   "grade_v2": 1,
+   "sec_v2": 2.19
+  },
+  {
+   "qid": "4957",
+   "docid": "3453549#1",
+   "human": 0,
+   "passage_len": 393,
+   "grade_v1": 3,
+   "sec_v1": 1.972,
+   "grade_v2": 0,
+   "sec_v2": 1.429
+  },
+  {
+   "qid": "5691",
+   "docid": "375025#0",
+   "human": 1,
+   "passage_len": 562,
+   "grade_v1": 3,
+   "sec_v1": 2.241,
+   "grade_v2": 3,
+   "sec_v2": 1.436
+  },
+  {
+   "qid": "6575",
+   "docid": "1635404#4",
+   "human": 1,
+   "passage_len": 1909,
+   "grade_v1": 3,
+   "sec_v1": 4.988,
+   "grade_v2": 1,
+   "sec_v2": 3.531
+  },
+  {
+   "qid": "3355",
+   "docid": "85480#19",
+   "human": 0,
+   "passage_len": 379,
+   "grade_v1": 2,
+   "sec_v1": 2.007,
+   "grade_v2": 0,
+   "sec_v2": 1.308
+  },
+  {
+   "qid": "666",
+   "docid": "3122624#0",
+   "human": 0,
+   "passage_len": 669,
+   "grade_v1": 0,
+   "sec_v1": 2.227,
+   "grade_v2": 0,
+   "sec_v2": 1.589
+  },
+  {
+   "qid": "6209",
+   "docid": "928709#4",
+   "human": 0,
+   "passage_len": 520,
+   "grade_v1": 0,
+   "sec_v1": 2.123,
+   "grade_v2": 1,
+   "sec_v2": 1.431
+  },
+  {
+   "qid": "5724",
+   "docid": "1580338#0",
+   "human": 1,
+   "passage_len": 404,
+   "grade_v1": 3,
+   "sec_v1": 2.138,
+   "grade_v2": 3,
+   "sec_v2": 1.309
+  },
+  {
+   "qid": "5494",
+   "docid": "7759809#36",
+   "human": 0,
+   "passage_len": 1019,
+   "grade_v1": 1,
+   "sec_v1": 4.092,
+   "grade_v2": 0,
+   "sec_v2": 2.175
+  },
+  {
+   "qid": "1978",
+   "docid": "878820#1",
+   "human": 1,
+   "passage_len": 618,
+   "grade_v1": 2,
+   "sec_v1": 2.513,
+   "grade_v2": 1,
+   "sec_v2": 1.589
+  },
+  {
+   "qid": "4205",
+   "docid": "3003815#57",
+   "human": 1,
+   "passage_len": 626,
+   "grade_v1": 1,
+   "sec_v1": 2.693,
+   "grade_v2": 1,
+   "sec_v2": 1.721
+  },
+  {
+   "qid": "2222",
+   "docid": "62834#30",
+   "human": 0,
+   "passage_len": 551,
+   "grade_v1": 0,
+   "sec_v1": 2.328,
+   "grade_v2": 0,
+   "sec_v2": 1.59
+  },
+  {
+   "qid": "4993",
+   "docid": "962066#1",
+   "human": 1,
+   "passage_len": 1923,
+   "grade_v1": 3,
+   "sec_v1": 5.315,
+   "grade_v2": 3,
+   "sec_v2": 3.702
+  },
+  {
+   "qid": "2550",
+   "docid": "2824#21",
+   "human": 1,
+   "passage_len": 334,
+   "grade_v1": 1,
+   "sec_v1": 1.677,
+   "grade_v2": 0,
+   "sec_v2": 1.143
+  },
+  {
+   "qid": "2026",
+   "docid": "3684484#89",
+   "human": 0,
+   "passage_len": 648,
+   "grade_v1": 2,
+   "sec_v1": 2.666,
+   "grade_v2": 3,
+   "sec_v2": 1.59
+  },
+  {
+   "qid": "6642",
+   "docid": "4840067#4",
+   "human": 0,
+   "passage_len": 907,
+   "grade_v1": 3,
+   "sec_v1": 3.099,
+   "grade_v2": 3,
+   "sec_v2": 2.184
+  },
+  {
+   "qid": "4437",
+   "docid": "5933081#4",
+   "human": 0,
+   "passage_len": 679,
+   "grade_v1": 2,
+   "sec_v1": 2.311,
+   "grade_v2": 0,
+   "sec_v2": 1.589
+  },
+  {
+   "qid": "6463",
+   "docid": "5121819#0",
+   "human": 1,
+   "passage_len": 1102,
+   "grade_v1": 1,
+   "sec_v1": 3.385,
+   "grade_v2": 1,
+   "sec_v2": 2.318
+  },
+  {
+   "qid": "674",
+   "docid": "2431404#73",
+   "human": 0,
+   "passage_len": 853,
+   "grade_v1": 1,
+   "sec_v1": 2.888,
+   "grade_v2": 1,
+   "sec_v2": 2.014
+  },
+  {
+   "qid": "6564",
+   "docid": "6715676#10",
+   "human": 1,
+   "passage_len": 2770,
+   "grade_v1": 2,
+   "sec_v1": 5.274,
+   "grade_v2": 2,
+   "sec_v2": 3.694
+  },
+  {
+   "qid": "1282",
+   "docid": "353721#15",
+   "human": 0,
+   "passage_len": 1031,
+   "grade_v1": 1,
+   "sec_v1": 2.959,
+   "grade_v2": 0,
+   "sec_v2": 2.196
+  },
+  {
+   "qid": "2550",
+   "docid": "6702613#0",
+   "human": 1,
+   "passage_len": 437,
+   "grade_v1": 2,
+   "sec_v1": 1.915,
+   "grade_v2": 1,
+   "sec_v2": 1.301
+  },
+  {
+   "qid": "5129",
+   "docid": "2571#0",
+   "human": 1,
+   "passage_len": 686,
+   "grade_v1": 1,
+   "sec_v1": 2.909,
+   "grade_v2": 0,
+   "sec_v2": 1.72
+  },
+  {
+   "qid": "340",
+   "docid": "55082#9",
+   "human": 1,
+   "passage_len": 732,
+   "grade_v1": 2,
+   "sec_v1": 2.518,
+   "grade_v2": 0,
+   "sec_v2": 1.729
+  },
+  {
+   "qid": "4047",
+   "docid": "1362410#1",
+   "human": 0,
+   "passage_len": 337,
+   "grade_v1": 1,
+   "sec_v1": 1.753,
+   "grade_v2": 0,
+   "sec_v2": 1.156
+  },
+  {
+   "qid": "1062",
+   "docid": "4361690#2",
+   "human": 0,
+   "passage_len": 601,
+   "grade_v1": 1,
+   "sec_v1": 2.132,
+   "grade_v2": 1,
+   "sec_v2": 1.423
+  },
+  {
+   "qid": "4104",
+   "docid": "4785686#0",
+   "human": 0,
+   "passage_len": 394,
+   "grade_v1": 1,
+   "sec_v1": 1.984,
+   "grade_v2": 0,
+   "sec_v2": 1.43
+  },
+  {
+   "qid": "1141",
+   "docid": "3433#2",
+   "human": 0,
+   "passage_len": 560,
+   "grade_v1": 2,
+   "sec_v1": 2.223,
+   "grade_v2": 0,
+   "sec_v2": 1.433
+  },
+  {
+   "qid": "427",
+   "docid": "3603751#54",
+   "human": 1,
+   "passage_len": 499,
+   "grade_v1": 2,
+   "sec_v1": 1.9,
+   "grade_v2": 1,
+   "sec_v2": 1.309
+  },
+  {
+   "qid": "5108",
+   "docid": "22194#8",
+   "human": 1,
+   "passage_len": 486,
+   "grade_v1": 1,
+   "sec_v1": 1.856,
+   "grade_v2": 1,
+   "sec_v2": 1.307
+  },
+  {
+   "qid": "3344",
+   "docid": "1655597#0",
+   "human": 0,
+   "passage_len": 763,
+   "grade_v1": 0,
+   "sec_v1": 3.208,
+   "grade_v2": 0,
+   "sec_v2": 2.195
+  },
+  {
+   "qid": "2789",
+   "docid": "1534585#14",
+   "human": 1,
+   "passage_len": 629,
+   "grade_v1": 2,
+   "sec_v1": 2.356,
+   "grade_v2": 1,
+   "sec_v2": 1.659
+  },
+  {
+   "qid": "1044",
+   "docid": "1483#17",
+   "human": 1,
+   "passage_len": 718,
+   "grade_v1": 2,
+   "sec_v1": 2.598,
+   "grade_v2": 1,
+   "sec_v2": 1.766
+  },
+  {
+   "qid": "6479",
+   "docid": "3010#9",
+   "human": 1,
+   "passage_len": 438,
+   "grade_v1": 3,
+   "sec_v1": 2.199,
+   "grade_v2": 3,
+   "sec_v2": 1.47
+  },
+  {
+   "qid": "6612",
+   "docid": "1579892#8",
+   "human": 1,
+   "passage_len": 643,
+   "grade_v1": 1,
+   "sec_v1": 2.591,
+   "grade_v2": 1,
+   "sec_v2": 1.765
+  },
+  {
+   "qid": "2792",
+   "docid": "2626997#87",
+   "human": 1,
+   "passage_len": 778,
+   "grade_v1": 1,
+   "sec_v1": 2.356,
+   "grade_v2": 0,
+   "sec_v2": 1.931
+  },
+  {
+   "qid": "748",
+   "docid": "2142457#18",
+   "human": 1,
+   "passage_len": 784,
+   "grade_v1": 1,
+   "sec_v1": 1.865,
+   "grade_v2": 1,
+   "sec_v2": 1.935
+  },
+  {
+   "qid": "2603",
+   "docid": "5329482#16",
+   "human": 0,
+   "passage_len": 1832,
+   "grade_v1": 0,
+   "sec_v1": 3.76,
+   "grade_v2": 0,
+   "sec_v2": 3.494
+  },
+  {
+   "qid": "4807",
+   "docid": "1656912#0",
+   "human": 1,
+   "passage_len": 137,
+   "grade_v1": 2,
+   "sec_v1": 1.269,
+   "grade_v2": 0,
+   "sec_v2": 0.767
+  },
+  {
+   "qid": "5108",
+   "docid": "22194#31",
+   "human": 0,
+   "passage_len": 543,
+   "grade_v1": 0,
+   "sec_v1": 2.531,
+   "grade_v2": 0,
+   "sec_v2": 1.486
+  },
+  {
+   "qid": "5154",
+   "docid": "767543#1",
+   "human": 1,
+   "passage_len": 204,
+   "grade_v1": 0,
+   "sec_v1": 1.511,
+   "grade_v2": 0,
+   "sec_v2": 0.872
+  },
+  {
+   "qid": "5024",
+   "docid": "3469364#13",
+   "human": 0,
+   "passage_len": 1583,
+   "grade_v1": 1,
+   "sec_v1": 5.536,
+   "grade_v2": 1,
+   "sec_v2": 3.227
+  },
+  {
+   "qid": "4349",
+   "docid": "5055143#42",
+   "human": 0,
+   "passage_len": 812,
+   "grade_v1": 0,
+   "sec_v1": 3.088,
+   "grade_v2": 0,
+   "sec_v2": 2.004
+  },
+  {
+   "qid": "6163",
+   "docid": "4951161#0",
+   "human": 1,
+   "passage_len": 337,
+   "grade_v1": 3,
+   "sec_v1": 1.559,
+   "grade_v2": 1,
+   "sec_v2": 1.1
+  },
+  {
+   "qid": "6227",
+   "docid": "3408102#1",
+   "human": 0,
+   "passage_len": 1423,
+   "grade_v1": 1,
+   "sec_v1": 4.005,
+   "grade_v2": 0,
+   "sec_v2": 3.109
+  },
+  {
+   "qid": "2026",
+   "docid": "81554#3",
+   "human": 0,
+   "passage_len": 974,
+   "grade_v1": 1,
+   "sec_v1": 3.229,
+   "grade_v2": 1,
+   "sec_v2": 2.282
+  },
+  {
+   "qid": "3772",
+   "docid": "5259984#20",
+   "human": 0,
+   "passage_len": 975,
+   "grade_v1": 1,
+   "sec_v1": 3.424,
+   "grade_v2": 1,
+   "sec_v2": 2.311
+  },
+  {
+   "qid": "779",
+   "docid": "3541218#2",
+   "human": 0,
+   "passage_len": 501,
+   "grade_v1": 0,
+   "sec_v1": 2.27,
+   "grade_v2": 0,
+   "sec_v2": 1.591
+  },
+  {
+   "qid": "5237",
+   "docid": "158138#45",
+   "human": 1,
+   "passage_len": 991,
+   "grade_v1": 2,
+   "sec_v1": 3.243,
+   "grade_v2": 1,
+   "sec_v2": 2.201
+  },
+  {
+   "qid": "1839",
+   "docid": "760304#11",
+   "human": 0,
+   "passage_len": 445,
+   "grade_v1": 0,
+   "sec_v1": 1.913,
+   "grade_v2": 0,
+   "sec_v2": 1.438
+  },
+  {
+   "qid": "1538",
+   "docid": "13607#7",
+   "human": 0,
+   "passage_len": 620,
+   "grade_v1": 0,
+   "sec_v1": 2.545,
+   "grade_v2": 0,
+   "sec_v2": 1.895
+  },
+  {
+   "qid": "5494",
+   "docid": "7759809#21",
+   "human": 1,
+   "passage_len": 823,
+   "grade_v1": 2,
+   "sec_v1": 3.001,
+   "grade_v2": 0,
+   "sec_v2": 2.013
+  },
+  {
+   "qid": "4431",
+   "docid": "2639035#0",
+   "human": 1,
+   "passage_len": 457,
+   "grade_v1": 1,
+   "sec_v1": 2.148,
+   "grade_v2": 1,
+   "sec_v2": 1.422
+  },
+  {
+   "qid": "1984",
+   "docid": "82256#2",
+   "human": 0,
+   "passage_len": 393,
+   "grade_v1": 2,
+   "sec_v1": 2.039,
+   "grade_v2": 0,
+   "sec_v2": 1.419
+  },
+  {
+   "qid": "3200",
+   "docid": "29432#1",
+   "human": 0,
+   "passage_len": 1044,
+   "grade_v1": 1,
+   "sec_v1": 3.507,
+   "grade_v2": 0,
+   "sec_v2": 2.551
+  },
+  {
+   "qid": "5250",
+   "docid": "3947587#1",
+   "human": 1,
+   "passage_len": 685,
+   "grade_v1": 3,
+   "sec_v1": 2.404,
+   "grade_v2": 1,
+   "sec_v2": 1.723
+  },
+  {
+   "qid": "3190",
+   "docid": "237518#53",
+   "human": 0,
+   "passage_len": 970,
+   "grade_v1": 2,
+   "sec_v1": 3.225,
+   "grade_v2": 0,
+   "sec_v2": 2.207
+  },
+  {
+   "qid": "2359",
+   "docid": "36943#10",
+   "human": 1,
+   "passage_len": 710,
+   "grade_v1": 3,
+   "sec_v1": 2.492,
+   "grade_v2": 3,
+   "sec_v2": 1.715
+  },
+  {
+   "qid": "3732",
+   "docid": "6840458#2",
+   "human": 0,
+   "passage_len": 716,
+   "grade_v1": 0,
+   "sec_v1": 2.599,
+   "grade_v2": 0,
+   "sec_v2": 1.717
+  },
+  {
+   "qid": "6161",
+   "docid": "148877#0",
+   "human": 1,
+   "passage_len": 570,
+   "grade_v1": 1,
+   "sec_v1": 2.99,
+   "grade_v2": 1,
+   "sec_v2": 1.757
+  },
+  {
+   "qid": "4416",
+   "docid": "205292#18",
+   "human": 0,
+   "passage_len": 948,
+   "grade_v1": 1,
+   "sec_v1": 3.962,
+   "grade_v2": 0,
+   "sec_v2": 2.266
+  },
+  {
+   "qid": "979",
+   "docid": "54740#56",
+   "human": 1,
+   "passage_len": 447,
+   "grade_v1": 2,
+   "sec_v1": 2.761,
+   "grade_v2": 1,
+   "sec_v2": 1.349
+  },
+  {
+   "qid": "2375",
+   "docid": "5723#28",
+   "human": 1,
+   "passage_len": 143,
+   "grade_v1": 0,
+   "sec_v1": 1.904,
+   "grade_v2": 0,
+   "sec_v2": 0.885
+  },
+  {
+   "qid": "3772",
+   "docid": "5259984#12",
+   "human": 0,
+   "passage_len": 1058,
+   "grade_v1": 0,
+   "sec_v1": 4.512,
+   "grade_v2": 0,
+   "sec_v2": 2.552
+  },
+  {
+   "qid": "4465",
+   "docid": "1268452#0",
+   "human": 1,
+   "passage_len": 602,
+   "grade_v1": 2,
+   "sec_v1": 3.106,
+   "grade_v2": 3,
+   "sec_v2": 1.634
+  },
+  {
+   "qid": "1272",
+   "docid": "1940563#8",
+   "human": 0,
+   "passage_len": 790,
+   "grade_v1": 0,
+   "sec_v1": 3.401,
+   "grade_v2": 0,
+   "sec_v2": 2.097
+  },
+  {
+   "qid": "6393",
+   "docid": "1776721#3",
+   "human": 1,
+   "passage_len": 550,
+   "grade_v1": 3,
+   "sec_v1": 2.607,
+   "grade_v2": 3,
+   "sec_v2": 1.477
+  },
+  {
+   "qid": "6227",
+   "docid": "558286#71",
+   "human": 0,
+   "passage_len": 716,
+   "grade_v1": 0,
+   "sec_v1": 3.017,
+   "grade_v2": 0,
+   "sec_v2": 1.776
+  },
+  {
+   "qid": "6612",
+   "docid": "1218#6",
+   "human": 1,
+   "passage_len": 1108,
+   "grade_v1": 2,
+   "sec_v1": 3.95,
+   "grade_v2": 1,
+   "sec_v2": 2.442
+  },
+  {
+   "qid": "2458",
+   "docid": "4979835#39",
+   "human": 1,
+   "passage_len": 880,
+   "grade_v1": 1,
+   "sec_v1": 3.423,
+   "grade_v2": 1,
+   "sec_v2": 2.089
+  },
+  {
+   "qid": "4804",
+   "docid": "5022607#4",
+   "human": 0,
+   "passage_len": 774,
+   "grade_v1": 1,
+   "sec_v1": 3.172,
+   "grade_v2": 0,
+   "sec_v2": 2.332
+  },
+  {
+   "qid": "6361",
+   "docid": "4498501#6",
+   "human": 1,
+   "passage_len": 385,
+   "grade_v1": 1,
+   "sec_v1": 2.107,
+   "grade_v2": 1,
+   "sec_v2": 1.492
+  },
+  {
+   "qid": "2366",
+   "docid": "2149208#24",
+   "human": 0,
+   "passage_len": 730,
+   "grade_v1": 0,
+   "sec_v1": 2.737,
+   "grade_v2": 0,
+   "sec_v2": 1.781
+  },
+  {
+   "qid": "4317",
+   "docid": "36510#13",
+   "human": 0,
+   "passage_len": 1546,
+   "grade_v1": 2,
+   "sec_v1": 7.759,
+   "grade_v2": 1,
+   "sec_v2": 3.651
+  },
+  {
+   "qid": "2256",
+   "docid": "282913#0",
+   "human": 1,
+   "passage_len": 486,
+   "grade_v1": 1,
+   "sec_v1": 7.167,
+   "grade_v2": 0,
+   "sec_v2": 1.44
+  },
+  {
+   "qid": "1896",
+   "docid": "8188#20",
+   "human": 1,
+   "passage_len": 278,
+   "grade_v1": 3,
+   "sec_v1": 5.004,
+   "grade_v2": 3,
+   "sec_v2": 1.085
+  },
+  {
+   "qid": "6248",
+   "docid": "3244286#9",
+   "human": 1,
+   "passage_len": 1059,
+   "grade_v1": 2,
+   "sec_v1": 9.352,
+   "grade_v2": 2,
+   "sec_v2": 2.393
+  },
+  {
+   "qid": "299",
+   "docid": "1015256#16",
+   "human": 0,
+   "passage_len": 545,
+   "grade_v1": 1,
+   "sec_v1": 5.599,
+   "grade_v2": 0,
+   "sec_v2": 1.737
+  },
+  {
+   "qid": "4714",
+   "docid": "53598#104",
+   "human": 0,
+   "passage_len": 816,
+   "grade_v1": 0,
+   "sec_v1": 7.113,
+   "grade_v2": 0,
+   "sec_v2": 2.084
+  },
+  {
+   "qid": "6204",
+   "docid": "2454215#4",
+   "human": 0,
+   "passage_len": 621,
+   "grade_v1": 0,
+   "sec_v1": 6.035,
+   "grade_v2": 0,
+   "sec_v2": 1.795
+  },
+  {
+   "qid": "2375",
+   "docid": "5723#36",
+   "human": 0,
+   "passage_len": 699,
+   "grade_v1": 1,
+   "sec_v1": 5.608,
+   "grade_v2": 0,
+   "sec_v2": 1.645
+  },
+  {
+   "qid": "3481",
+   "docid": "278903#6",
+   "human": 0,
+   "passage_len": 930,
+   "grade_v1": 3,
+   "sec_v1": 8.121,
+   "grade_v2": 3,
+   "sec_v2": 2.362
+  },
+  {
+   "qid": "6443",
+   "docid": "4673650#3",
+   "human": 1,
+   "passage_len": 759,
+   "grade_v1": 2,
+   "sec_v1": 7.641,
+   "grade_v2": 1,
+   "sec_v2": 2.144
+  },
+  {
+   "qid": "68",
+   "docid": "6211466#0",
+   "human": 1,
+   "passage_len": 563,
+   "grade_v1": 1,
+   "sec_v1": 5.027,
+   "grade_v2": 1,
+   "sec_v2": 1.416
+  },
+  {
+   "qid": "4441",
+   "docid": "45832#2",
+   "human": 0,
+   "passage_len": 600,
+   "grade_v1": 1,
+   "sec_v1": 5.602,
+   "grade_v2": 1,
+   "sec_v2": 1.581
+  },
+  {
+   "qid": "5048",
+   "docid": "52163#4",
+   "human": 1,
+   "passage_len": 224,
+   "grade_v1": 2,
+   "sec_v1": 1.367,
+   "grade_v2": 3,
+   "sec_v2": 0.865
+  },
+  {
+   "qid": "1989",
+   "docid": "405974#1",
+   "human": 1,
+   "passage_len": 604,
+   "grade_v1": 2,
+   "sec_v1": 5.613,
+   "grade_v2": 3,
+   "sec_v2": 1.577
+  },
+  {
+   "qid": "5982",
+   "docid": "1407327#0",
+   "human": 1,
+   "passage_len": 688,
+   "grade_v1": 2,
+   "sec_v1": 6.597,
+   "grade_v2": 1,
+   "sec_v2": 1.856
+  },
+  {
+   "qid": "6655",
+   "docid": "1776225#0",
+   "human": 0,
+   "passage_len": 513,
+   "grade_v1": 0,
+   "sec_v1": 2.467,
+   "grade_v2": 0,
+   "sec_v2": 1.572
+  },
+  {
+   "qid": "4767",
+   "docid": "1035167#26",
+   "human": 1,
+   "passage_len": 913,
+   "grade_v1": 1,
+   "sec_v1": 7.091,
+   "grade_v2": 0,
+   "sec_v2": 1.995
+  },
+  {
+   "qid": "4929",
+   "docid": "878579#9",
+   "human": 1,
+   "passage_len": 798,
+   "grade_v1": 2,
+   "sec_v1": 6.636,
+   "grade_v2": 1,
+   "sec_v2": 1.865
+  },
+  {
+   "qid": "6735",
+   "docid": "1352914#6",
+   "human": 0,
+   "passage_len": 975,
+   "grade_v1": 0,
+   "sec_v1": 2.234,
+   "grade_v2": 0,
+   "sec_v2": 2.191
+  },
+  {
+   "qid": "6612",
+   "docid": "2697322#1",
+   "human": 0,
+   "passage_len": 601,
+   "grade_v1": 1,
+   "sec_v1": 1.729,
+   "grade_v2": 1,
+   "sec_v2": 1.594
+  },
+  {
+   "qid": "6443",
+   "docid": "2711485#15",
+   "human": 0,
+   "passage_len": 537,
+   "grade_v1": 0,
+   "sec_v1": 1.869,
+   "grade_v2": 0,
+   "sec_v2": 1.433
+  },
+  {
+   "qid": "6079",
+   "docid": "1542873#1",
+   "human": 1,
+   "passage_len": 745,
+   "grade_v1": 1,
+   "sec_v1": 2.294,
+   "grade_v2": 0,
+   "sec_v2": 1.727
+  },
+  {
+   "qid": "2359",
+   "docid": "36943#0",
+   "human": 1,
+   "passage_len": 248,
+   "grade_v1": 3,
+   "sec_v1": 1.272,
+   "grade_v2": 3,
+   "sec_v2": 1.026
+  },
+  {
+   "qid": "3915",
+   "docid": "355732#4",
+   "human": 1,
+   "passage_len": 584,
+   "grade_v1": 0,
+   "sec_v1": 1.925,
+   "grade_v2": 0,
+   "sec_v2": 1.593
+  },
+  {
+   "qid": "2585",
+   "docid": "3679451#55",
+   "human": 0,
+   "passage_len": 988,
+   "grade_v1": 0,
+   "sec_v1": 2.87,
+   "grade_v2": 0,
+   "sec_v2": 2.306
+  },
+  {
+   "qid": "3724",
+   "docid": "3545448#11",
+   "human": 0,
+   "passage_len": 557,
+   "grade_v1": 1,
+   "sec_v1": 1.89,
+   "grade_v2": 0,
+   "sec_v2": 1.434
+  },
+  {
+   "qid": "3575",
+   "docid": "228752#1",
+   "human": 1,
+   "passage_len": 169,
+   "grade_v1": 3,
+   "sec_v1": 1.192,
+   "grade_v2": 3,
+   "sec_v2": 0.868
+  },
+  {
+   "qid": "4378",
+   "docid": "6873061#10",
+   "human": 1,
+   "passage_len": 813,
+   "grade_v1": 2,
+   "sec_v1": 2.428,
+   "grade_v2": 2,
+   "sec_v2": 1.882
+  },
+  {
+   "qid": "2789",
+   "docid": "7483669#0",
+   "human": 0,
+   "passage_len": 950,
+   "grade_v1": 0,
+   "sec_v1": 2.519,
+   "grade_v2": 0,
+   "sec_v2": 2.011
+  },
+  {
+   "qid": "3708",
+   "docid": "142677#3",
+   "human": 1,
+   "passage_len": 949,
+   "grade_v1": 3,
+   "sec_v1": 2.519,
+   "grade_v2": 3,
+   "sec_v2": 2.026
+  },
+  {
+   "qid": "391",
+   "docid": "2587721#2",
+   "human": 0,
+   "passage_len": 603,
+   "grade_v1": 2,
+   "sec_v1": 1.79,
+   "grade_v2": 1,
+   "sec_v2": 1.436
+  },
+  {
+   "qid": "6443",
+   "docid": "638850#41",
+   "human": 0,
+   "passage_len": 348,
+   "grade_v1": 3,
+   "sec_v1": 1.61,
+   "grade_v2": 3,
+   "sec_v2": 1.295
+  },
+  {
+   "qid": "6383",
+   "docid": "1396433#11",
+   "human": 1,
+   "passage_len": 475,
+   "grade_v1": 2,
+   "sec_v1": 1.619,
+   "grade_v2": 1,
+   "sec_v2": 1.304
+  },
+  {
+   "qid": "5048",
+   "docid": "934699#5",
+   "human": 1,
+   "passage_len": 381,
+   "grade_v1": 2,
+   "sec_v1": 1.596,
+   "grade_v2": 3,
+   "sec_v2": 1.298
+  },
+  {
+   "qid": "1135",
+   "docid": "720695#2",
+   "human": 1,
+   "passage_len": 1279,
+   "grade_v1": 1,
+   "sec_v1": 3.428,
+   "grade_v2": 1,
+   "sec_v2": 2.794
+  },
+  {
+   "qid": "3216",
+   "docid": "5905064#6",
+   "human": 1,
+   "passage_len": 946,
+   "grade_v1": 2,
+   "sec_v1": 2.532,
+   "grade_v2": 1,
+   "sec_v2": 2.008
+  },
+  {
+   "qid": "2955",
+   "docid": "244431#7",
+   "human": 1,
+   "passage_len": 932,
+   "grade_v1": 3,
+   "sec_v1": 2.511,
+   "grade_v2": 3,
+   "sec_v2": 2.051
+  },
+  {
+   "qid": "5165",
+   "docid": "1404871#1",
+   "human": 1,
+   "passage_len": 991,
+   "grade_v1": 2,
+   "sec_v1": 2.692,
+   "grade_v2": 3,
+   "sec_v2": 2.206
+  },
+  {
+   "qid": "6658",
+   "docid": "21837#5",
+   "human": 1,
+   "passage_len": 384,
+   "grade_v1": 2,
+   "sec_v1": 1.614,
+   "grade_v2": 3,
+   "sec_v2": 1.325
+  },
+  {
+   "qid": "4805",
+   "docid": "1258769#14",
+   "human": 0,
+   "passage_len": 1187,
+   "grade_v1": 0,
+   "sec_v1": 2.87,
+   "grade_v2": 0,
+   "sec_v2": 2.391
+  },
+  {
+   "qid": "748",
+   "docid": "2142457#2",
+   "human": 1,
+   "passage_len": 409,
+   "grade_v1": 0,
+   "sec_v1": 1.627,
+   "grade_v2": 0,
+   "sec_v2": 1.359
+  },
+  {
+   "qid": "910",
+   "docid": "3505140#7",
+   "human": 0,
+   "passage_len": 643,
+   "grade_v1": 1,
+   "sec_v1": 2.123,
+   "grade_v2": 0,
+   "sec_v2": 1.792
+  },
+  {
+   "qid": "779",
+   "docid": "605175#1",
+   "human": 0,
+   "passage_len": 906,
+   "grade_v1": 0,
+   "sec_v1": 2.677,
+   "grade_v2": 0,
+   "sec_v2": 2.238
+  },
+  {
+   "qid": "740",
+   "docid": "4347829#0",
+   "human": 1,
+   "passage_len": 420,
+   "grade_v1": 1,
+   "sec_v1": 1.613,
+   "grade_v2": 1,
+   "sec_v2": 1.329
+  },
+  {
+   "qid": "2585",
+   "docid": "1115274#4",
+   "human": 0,
+   "passage_len": 919,
+   "grade_v1": 0,
+   "sec_v1": 2.486,
+   "grade_v2": 0,
+   "sec_v2": 2.067
+  },
+  {
+   "qid": "1044",
+   "docid": "1483#12",
+   "human": 0,
+   "passage_len": 499,
+   "grade_v1": 0,
+   "sec_v1": 1.626,
+   "grade_v2": 0,
+   "sec_v2": 1.339
+  },
+  {
+   "qid": "4349",
+   "docid": "24946#4",
+   "human": 1,
+   "passage_len": 1387,
+   "grade_v1": 0,
+   "sec_v1": 3.637,
+   "grade_v2": 0,
+   "sec_v2": 3.171
+  },
+  {
+   "qid": "3171",
+   "docid": "178208#9",
+   "human": 0,
+   "passage_len": 2116,
+   "grade_v1": 1,
+   "sec_v1": 4.211,
+   "grade_v2": 0,
+   "sec_v2": 3.511
+  },
+  {
+   "qid": "4296",
+   "docid": "892655#5",
+   "human": 1,
+   "passage_len": 1199,
+   "grade_v1": 2,
+   "sec_v1": 2.916,
+   "grade_v2": 0,
+   "sec_v2": 2.554
+  },
+  {
+   "qid": "6227",
+   "docid": "6215274#2",
+   "human": 0,
+   "passage_len": 631,
+   "grade_v1": 0,
+   "sec_v1": 1.684,
+   "grade_v2": 0,
+   "sec_v2": 1.474
+  },
+  {
+   "qid": "3140",
+   "docid": "4572#42",
+   "human": 1,
+   "passage_len": 389,
+   "grade_v1": 2,
+   "sec_v1": 1.435,
+   "grade_v2": 1,
+   "sec_v2": 1.142
+  },
+  {
+   "qid": "2375",
+   "docid": "5723#1",
+   "human": 1,
+   "passage_len": 1214,
+   "grade_v1": 1,
+   "sec_v1": 3.099,
+   "grade_v2": 0,
+   "sec_v2": 2.446
+  },
+  {
+   "qid": "4126",
+   "docid": "6951963#9",
+   "human": 0,
+   "passage_len": 737,
+   "grade_v1": 3,
+   "sec_v1": 2.127,
+   "grade_v2": 3,
+   "sec_v2": 1.854
+  },
+  {
+   "qid": "319",
+   "docid": "6612220#3",
+   "human": 0,
+   "passage_len": 2004,
+   "grade_v1": 1,
+   "sec_v1": 4.195,
+   "grade_v2": 0,
+   "sec_v2": 3.36
+  },
+  {
+   "qid": "1534",
+   "docid": "151125#49",
+   "human": 1,
+   "passage_len": 555,
+   "grade_v1": 3,
+   "sec_v1": 1.876,
+   "grade_v2": 3,
+   "sec_v2": 1.571
+  },
+  {
+   "qid": "5502",
+   "docid": "2133235#1",
+   "human": 1,
+   "passage_len": 529,
+   "grade_v1": 3,
+   "sec_v1": 1.557,
+   "grade_v2": 3,
+   "sec_v2": 1.42
+  },
+  {
+   "qid": "1720",
+   "docid": "4939273#42",
+   "human": 1,
+   "passage_len": 338,
+   "grade_v1": 2,
+   "sec_v1": 1.151,
+   "grade_v2": 1,
+   "sec_v2": 1.137
+  },
+  {
+   "qid": "3355",
+   "docid": "5048487#66",
+   "human": 1,
+   "passage_len": 211,
+   "grade_v1": 3,
+   "sec_v1": 1.294,
+   "grade_v2": 3,
+   "sec_v2": 1.012
+  },
+  {
+   "qid": "3481",
+   "docid": "2465311#3",
+   "human": 1,
+   "passage_len": 431,
+   "grade_v1": 1,
+   "sec_v1": 1.472,
+   "grade_v2": 0,
+   "sec_v2": 1.298
+  },
+  {
+   "qid": "5157",
+   "docid": "6368830#1",
+   "human": 0,
+   "passage_len": 503,
+   "grade_v1": 0,
+   "sec_v1": 1.752,
+   "grade_v2": 0,
+   "sec_v2": 1.421
+  },
+  {
+   "qid": "5683",
+   "docid": "6002999#4",
+   "human": 0,
+   "passage_len": 478,
+   "grade_v1": 0,
+   "sec_v1": 1.346,
+   "grade_v2": 0,
+   "sec_v2": 1.295
+  },
+  {
+   "qid": "1289",
+   "docid": "129956#6",
+   "human": 0,
+   "passage_len": 1138,
+   "grade_v1": 1,
+   "sec_v1": 2.415,
+   "grade_v2": 0,
+   "sec_v2": 2.451
+  },
+  {
+   "qid": "5095",
+   "docid": "23758#1",
+   "human": 1,
+   "passage_len": 423,
+   "grade_v1": 3,
+   "sec_v1": 1.279,
+   "grade_v2": 3,
+   "sec_v2": 1.298
+  },
+  {
+   "qid": "779",
+   "docid": "1434897#1",
+   "human": 0,
+   "passage_len": 653,
+   "grade_v1": 0,
+   "sec_v1": 1.678,
+   "grade_v2": 0,
+   "sec_v2": 1.701
+  },
+  {
+   "qid": "1135",
+   "docid": "953209#164",
+   "human": 0,
+   "passage_len": 1070,
+   "grade_v1": 1,
+   "sec_v1": 2.412,
+   "grade_v2": 1,
+   "sec_v2": 2.446
+  },
+  {
+   "qid": "6508",
+   "docid": "987180#0",
+   "human": 0,
+   "passage_len": 364,
+   "grade_v1": 0,
+   "sec_v1": 1.117,
+   "grade_v2": 0,
+   "sec_v2": 1.139
+  },
+  {
+   "qid": "4706",
+   "docid": "14025#1",
+   "human": 1,
+   "passage_len": 365,
+   "grade_v1": 0,
+   "sec_v1": 1.123,
+   "grade_v2": 0,
+   "sec_v2": 1.143
+  },
+  {
+   "qid": "23",
+   "docid": "10475#5",
+   "human": 0,
+   "passage_len": 511,
+   "grade_v1": 1,
+   "sec_v1": 1.395,
+   "grade_v2": 0,
+   "sec_v2": 1.414
+  },
+  {
+   "qid": "5108",
+   "docid": "22194#15",
+   "human": 0,
+   "passage_len": 572,
+   "grade_v1": 2,
+   "sec_v1": 1.548,
+   "grade_v2": 0,
+   "sec_v2": 1.573
+  },
+  {
+   "qid": "3959",
+   "docid": "80327#32",
+   "human": 0,
+   "passage_len": 472,
+   "grade_v1": 1,
+   "sec_v1": 1.398,
+   "grade_v2": 1,
+   "sec_v2": 1.416
+  },
+  {
+   "qid": "3912",
+   "docid": "2571#138",
+   "human": 0,
+   "passage_len": 1249,
+   "grade_v1": 2,
+   "sec_v1": 2.26,
+   "grade_v2": 2,
+   "sec_v2": 2.29
+  },
+  {
+   "qid": "1044",
+   "docid": "1586059#6",
+   "human": 1,
+   "passage_len": 809,
+   "grade_v1": 2,
+   "sec_v1": 1.971,
+   "grade_v2": 3,
+   "sec_v2": 2.003
+  },
+  {
+   "qid": "1228",
+   "docid": "32259#1",
+   "human": 1,
+   "passage_len": 351,
+   "grade_v1": 3,
+   "sec_v1": 1.272,
+   "grade_v2": 3,
+   "sec_v2": 1.294
+  },
+  {
+   "qid": "2939",
+   "docid": "1858908#1",
+   "human": 0,
+   "passage_len": 879,
+   "grade_v1": 1,
+   "sec_v1": 2.128,
+   "grade_v2": 0,
+   "sec_v2": 2.154
+  },
+  {
+   "qid": "3483",
+   "docid": "133040#7",
+   "human": 0,
+   "passage_len": 495,
+   "grade_v1": 1,
+   "sec_v1": 1.282,
+   "grade_v2": 1,
+   "sec_v2": 1.413
+  },
+  {
+   "qid": "1061",
+   "docid": "85976#2",
+   "human": 0,
+   "passage_len": 406,
+   "grade_v1": 0,
+   "sec_v1": 1.312,
+   "grade_v2": 0,
+   "sec_v2": 1.414
+  },
+  {
+   "qid": "6248",
+   "docid": "3027#21",
+   "human": 1,
+   "passage_len": 1255,
+   "grade_v1": 3,
+   "sec_v1": 2.562,
+   "grade_v2": 3,
+   "sec_v2": 2.603
+  },
+  {
+   "qid": "3478",
+   "docid": "7248565#30",
+   "human": 0,
+   "passage_len": 746,
+   "grade_v1": 0,
+   "sec_v1": 1.828,
+   "grade_v2": 0,
+   "sec_v2": 1.857
+  },
+  {
+   "qid": "2026",
+   "docid": "35623#77",
+   "human": 1,
+   "passage_len": 1431,
+   "grade_v1": 3,
+   "sec_v1": 2.753,
+   "grade_v2": 2,
+   "sec_v2": 2.787
+  },
+  {
+   "qid": "4816",
+   "docid": "68962#22",
+   "human": 0,
+   "passage_len": 542,
+   "grade_v1": 0,
+   "sec_v1": 1.398,
+   "grade_v2": 0,
+   "sec_v2": 1.419
+  },
+  {
+   "qid": "1289",
+   "docid": "129956#3",
+   "human": 1,
+   "passage_len": 1191,
+   "grade_v1": 2,
+   "sec_v1": 2.428,
+   "grade_v2": 3,
+   "sec_v2": 2.458
+  },
+  {
+   "qid": "453",
+   "docid": "2598362#29",
+   "human": 0,
+   "passage_len": 425,
+   "grade_v1": 0,
+   "sec_v1": 1.395,
+   "grade_v2": 0,
+   "sec_v2": 1.419
+  },
+  {
+   "qid": "5110",
+   "docid": "1268452#4",
+   "human": 0,
+   "passage_len": 499,
+   "grade_v1": 0,
+   "sec_v1": 1.283,
+   "grade_v2": 0,
+   "sec_v2": 1.301
+  },
+  {
+   "qid": "391",
+   "docid": "1581889#21",
+   "human": 0,
+   "passage_len": 1965,
+   "grade_v1": 1,
+   "sec_v1": 3.586,
+   "grade_v2": 0,
+   "sec_v2": 3.636
+  },
+  {
+   "qid": "6653",
+   "docid": "6935211#0",
+   "human": 0,
+   "passage_len": 273,
+   "grade_v1": 1,
+   "sec_v1": 0.992,
+   "grade_v2": 1,
+   "sec_v2": 1.009
+  },
+  {
+   "qid": "5338",
+   "docid": "193523#32",
+   "human": 0,
+   "passage_len": 1022,
+   "grade_v1": 1,
+   "sec_v1": 2.119,
+   "grade_v2": 0,
+   "sec_v2": 2.159
+  },
+  {
+   "qid": "910",
+   "docid": "1628483#41",
+   "human": 1,
+   "passage_len": 870,
+   "grade_v1": 3,
+   "sec_v1": 2.114,
+   "grade_v2": 3,
+   "sec_v2": 2.165
+  },
+  {
+   "qid": "4714",
+   "docid": "4066366#53",
+   "human": 0,
+   "passage_len": 711,
+   "grade_v1": 0,
+   "sec_v1": 1.826,
+   "grade_v2": 0,
+   "sec_v2": 1.856
+  },
+  {
+   "qid": "3959",
+   "docid": "100560#59",
+   "human": 0,
+   "passage_len": 361,
+   "grade_v1": 0,
+   "sec_v1": 1.119,
+   "grade_v2": 0,
+   "sec_v2": 1.137
+  },
+  {
+   "qid": "2231",
+   "docid": "2857064#3",
+   "human": 1,
+   "passage_len": 870,
+   "grade_v1": 2,
+   "sec_v1": 1.841,
+   "grade_v2": 3,
+   "sec_v2": 1.866
+  },
+  {
+   "qid": "2189",
+   "docid": "3391435#2",
+   "human": 1,
+   "passage_len": 548,
+   "grade_v1": 0,
+   "sec_v1": 1.403,
+   "grade_v2": 0,
+   "sec_v2": 1.424
+  },
+  {
+   "qid": "674",
+   "docid": "3970696#3",
+   "human": 1,
+   "passage_len": 991,
+   "grade_v1": 3,
+   "sec_v1": 2.319,
+   "grade_v2": 3,
+   "sec_v2": 2.282
+  },
+  {
+   "qid": "3561",
+   "docid": "1817#149",
+   "human": 1,
+   "passage_len": 1384,
+   "grade_v1": 3,
+   "sec_v1": 2.93,
+   "grade_v2": 3,
+   "sec_v2": 2.786
+  },
+  {
+   "qid": "2024",
+   "docid": "91067#0",
+   "human": 1,
+   "passage_len": 311,
+   "grade_v1": 3,
+   "sec_v1": 1.165,
+   "grade_v2": 3,
+   "sec_v2": 1.138
+  },
+  {
+   "qid": "4706",
+   "docid": "2758213#1",
+   "human": 0,
+   "passage_len": 711,
+   "grade_v1": 0,
+   "sec_v1": 2.158,
+   "grade_v2": 0,
+   "sec_v2": 1.864
+  },
+  {
+   "qid": "3986",
+   "docid": "23159#30",
+   "human": 0,
+   "passage_len": 995,
+   "grade_v1": 0,
+   "sec_v1": 2.134,
+   "grade_v2": 0,
+   "sec_v2": 1.999
+  },
+  {
+   "qid": "6351",
+   "docid": "6789150#2",
+   "human": 0,
+   "passage_len": 860,
+   "grade_v1": 2,
+   "sec_v1": 1.954,
+   "grade_v2": 2,
+   "sec_v2": 1.857
+  },
+  {
+   "qid": "1135",
+   "docid": "4261015#0",
+   "human": 1,
+   "passage_len": 537,
+   "grade_v1": 2,
+   "sec_v1": 1.754,
+   "grade_v2": 1,
+   "sec_v2": 1.701
+  },
+  {
+   "qid": "3344",
+   "docid": "130962#3",
+   "human": 1,
+   "passage_len": 236,
+   "grade_v1": 3,
+   "sec_v1": 1.005,
+   "grade_v2": 3,
+   "sec_v2": 1.017
+  },
+  {
+   "qid": "4816",
+   "docid": "23143#15",
+   "human": 0,
+   "passage_len": 599,
+   "grade_v1": 0,
+   "sec_v1": 1.402,
+   "grade_v2": 0,
+   "sec_v2": 1.423
+  },
+  {
+   "qid": "6463",
+   "docid": "653405#0",
+   "human": 1,
+   "passage_len": 424,
+   "grade_v1": 2,
+   "sec_v1": 1.122,
+   "grade_v2": 2,
+   "sec_v2": 1.141
+  },
+  {
+   "qid": "4555",
+   "docid": "24591#31",
+   "human": 1,
+   "passage_len": 734,
+   "grade_v1": 1,
+   "sec_v1": 1.684,
+   "grade_v2": 0,
+   "sec_v2": 1.708
+  },
+  {
+   "qid": "296",
+   "docid": "479086#0",
+   "human": 1,
+   "passage_len": 259,
+   "grade_v1": 3,
+   "sec_v1": 0.995,
+   "grade_v2": 3,
+   "sec_v2": 1.013
+  },
+  {
+   "qid": "922",
+   "docid": "63028#92",
+   "human": 0,
+   "passage_len": 451,
+   "grade_v1": 0,
+   "sec_v1": 1.395,
+   "grade_v2": 0,
+   "sec_v2": 1.415
+  },
+  {
+   "qid": "1764",
+   "docid": "5408007#34",
+   "human": 0,
+   "passage_len": 906,
+   "grade_v1": 0,
+   "sec_v1": 2.14,
+   "grade_v2": 0,
+   "sec_v2": 1.988
+  },
+  {
+   "qid": "847",
+   "docid": "11911#2",
+   "human": 1,
+   "passage_len": 437,
+   "grade_v1": 2,
+   "sec_v1": 1.272,
+   "grade_v2": 1,
+   "sec_v2": 1.295
+  },
+  {
+   "qid": "3708",
+   "docid": "18874#8",
+   "human": 0,
+   "passage_len": 1029,
+   "grade_v1": 2,
+   "sec_v1": 1.971,
+   "grade_v2": 3,
+   "sec_v2": 1.995
+  },
+  {
+   "qid": "2189",
+   "docid": "1379239#17",
+   "human": 0,
+   "passage_len": 507,
+   "grade_v1": 0,
+   "sec_v1": 1.402,
+   "grade_v2": 0,
+   "sec_v2": 1.425
+  },
+  {
+   "qid": "6079",
+   "docid": "34919#26",
+   "human": 0,
+   "passage_len": 3191,
+   "grade_v1": 1,
+   "sec_v1": 3.503,
+   "grade_v2": 1,
+   "sec_v2": 3.477
+  },
+  {
+   "qid": "874",
+   "docid": "805925#2",
+   "human": 0,
+   "passage_len": 904,
+   "grade_v1": 1,
+   "sec_v1": 2.118,
+   "grade_v2": 0,
+   "sec_v2": 2.15
+  },
+  {
+   "qid": "1400",
+   "docid": "1129745#0",
+   "human": 0,
+   "passage_len": 803,
+   "grade_v1": 2,
+   "sec_v1": 1.733,
+   "grade_v2": 2,
+   "sec_v2": 1.697
+  },
+  {
+   "qid": "5095",
+   "docid": "23758#14",
+   "human": 0,
+   "passage_len": 1348,
+   "grade_v1": 1,
+   "sec_v1": 3.041,
+   "grade_v2": 0,
+   "sec_v2": 2.909
+  },
+  {
+   "qid": "5095",
+   "docid": "23758#5",
+   "human": 0,
+   "passage_len": 925,
+   "grade_v1": 1,
+   "sec_v1": 2.035,
+   "grade_v2": 0,
+   "sec_v2": 2.004
+  },
+  {
+   "qid": "2844",
+   "docid": "5726964#5",
+   "human": 1,
+   "passage_len": 470,
+   "grade_v1": 3,
+   "sec_v1": 1.391,
+   "grade_v2": 3,
+   "sec_v2": 1.412
+  },
+  {
+   "qid": "2108",
+   "docid": "3372733#0",
+   "human": 0,
+   "passage_len": 281,
+   "grade_v1": 0,
+   "sec_v1": 0.993,
+   "grade_v2": 0,
+   "sec_v2": 1.011
+  },
+  {
+   "qid": "4816",
+   "docid": "11975#2",
+   "human": 0,
+   "passage_len": 675,
+   "grade_v1": 0,
+   "sec_v1": 1.556,
+   "grade_v2": 0,
+   "sec_v2": 1.579
+  },
+  {
+   "qid": "979",
+   "docid": "4512273#0",
+   "human": 1,
+   "passage_len": 1087,
+   "grade_v1": 3,
+   "sec_v1": 2.432,
+   "grade_v2": 3,
+   "sec_v2": 2.486
+  },
+  {
+   "qid": "427",
+   "docid": "3603751#106",
+   "human": 1,
+   "passage_len": 2477,
+   "grade_v1": 2,
+   "sec_v1": 3.157,
+   "grade_v2": 2,
+   "sec_v2": 3.226
+  },
+  {
+   "qid": "4465",
+   "docid": "1268452#12",
+   "human": 1,
+   "passage_len": 254,
+   "grade_v1": 2,
+   "sec_v1": 0.997,
+   "grade_v2": 2,
+   "sec_v2": 1.014
+  },
+  {
+   "qid": "4126",
+   "docid": "233542#13",
+   "human": 0,
+   "passage_len": 955,
+   "grade_v1": 0,
+   "sec_v1": 2.131,
+   "grade_v2": 0,
+   "sec_v2": 2.16
+  },
+  {
+   "qid": "6532",
+   "docid": "11325#4",
+   "human": 1,
+   "passage_len": 1169,
+   "grade_v1": 2,
+   "sec_v1": 2.572,
+   "grade_v2": 0,
+   "sec_v2": 2.635
+  },
+  {
+   "qid": "6729",
+   "docid": "206229#8",
+   "human": 0,
+   "passage_len": 827,
+   "grade_v1": 0,
+   "sec_v1": 1.832,
+   "grade_v2": 0,
+   "sec_v2": 1.866
+  },
+  {
+   "qid": "2853",
+   "docid": "3433897#12",
+   "human": 0,
+   "passage_len": 760,
+   "grade_v1": 1,
+   "sec_v1": 1.676,
+   "grade_v2": 3,
+   "sec_v2": 1.7
+  },
+  {
+   "qid": "1807",
+   "docid": "1675234#31",
+   "human": 1,
+   "passage_len": 567,
+   "grade_v1": 3,
+   "sec_v1": 1.556,
+   "grade_v2": 3,
+   "sec_v2": 1.579
+  },
+  {
+   "qid": "168",
+   "docid": "1728226#0",
+   "human": 0,
+   "passage_len": 655,
+   "grade_v1": 0,
+   "sec_v1": 1.83,
+   "grade_v2": 0,
+   "sec_v2": 1.855
+  },
+  {
+   "qid": "4120",
+   "docid": "6007519#6",
+   "human": 0,
+   "passage_len": 287,
+   "grade_v1": 2,
+   "sec_v1": 1.009,
+   "grade_v2": 0,
+   "sec_v2": 1.019
+  },
+  {
+   "qid": "3390",
+   "docid": "5698655#1",
+   "human": 1,
+   "passage_len": 707,
+   "grade_v1": 3,
+   "sec_v1": 1.839,
+   "grade_v2": 1,
+   "sec_v2": 1.697
+  },
+  {
+   "qid": "3139",
+   "docid": "4384797#1",
+   "human": 0,
+   "passage_len": 956,
+   "grade_v1": 0,
+   "sec_v1": 2.194,
+   "grade_v2": 0,
+   "sec_v2": 2.169
+  },
+  {
+   "qid": "3171",
+   "docid": "178208#32",
+   "human": 1,
+   "passage_len": 881,
+   "grade_v1": 1,
+   "sec_v1": 2.036,
+   "grade_v2": 1,
+   "sec_v2": 1.985
+  },
+  {
+   "qid": "2830",
+   "docid": "3854597#20",
+   "human": 0,
+   "passage_len": 972,
+   "grade_v1": 0,
+   "sec_v1": 2.277,
+   "grade_v2": 0,
+   "sec_v2": 2.165
+  },
+  {
+   "qid": "2204",
+   "docid": "4289#69",
+   "human": 1,
+   "passage_len": 1173,
+   "grade_v1": 3,
+   "sec_v1": 2.956,
+   "grade_v2": 3,
+   "sec_v2": 2.617
+  },
+  {
+   "qid": "391",
+   "docid": "941428#2",
+   "human": 0,
+   "passage_len": 539,
+   "grade_v1": 3,
+   "sec_v1": 1.595,
+   "grade_v2": 1,
+   "sec_v2": 1.432
+  },
+  {
+   "qid": "6227",
+   "docid": "3420936#0",
+   "human": 1,
+   "passage_len": 1317,
+   "grade_v1": 3,
+   "sec_v1": 2.753,
+   "grade_v2": 3,
+   "sec_v2": 2.929
+  },
+  {
+   "qid": "3171",
+   "docid": "178208#7",
+   "human": 0,
+   "passage_len": 1534,
+   "grade_v1": 1,
+   "sec_v1": 3.153,
+   "grade_v2": 1,
+   "sec_v2": 3.224
+  },
+  {
+   "qid": "5621",
+   "docid": "205292#36",
+   "human": 1,
+   "passage_len": 1453,
+   "grade_v1": 1,
+   "sec_v1": 2.754,
+   "grade_v2": 0,
+   "sec_v2": 2.803
+  },
+  {
+   "qid": "2366",
+   "docid": "4028508#1",
+   "human": 0,
+   "passage_len": 907,
+   "grade_v1": 0,
+   "sec_v1": 2.114,
+   "grade_v2": 0,
+   "sec_v2": 2.163
+  },
+  {
+   "qid": "3436",
+   "docid": "2959091#22",
+   "human": 0,
+   "passage_len": 944,
+   "grade_v1": 0,
+   "sec_v1": 1.832,
+   "grade_v2": 0,
+   "sec_v2": 1.86
+  },
+  {
+   "qid": "75",
+   "docid": "4367597#18",
+   "human": 1,
+   "passage_len": 530,
+   "grade_v1": 2,
+   "sec_v1": 1.55,
+   "grade_v2": 2,
+   "sec_v2": 1.579
+  },
+  {
+   "qid": "3466",
+   "docid": "31581#20",
+   "human": 0,
+   "passage_len": 603,
+   "grade_v1": 1,
+   "sec_v1": 1.674,
+   "grade_v2": 0,
+   "sec_v2": 1.701
+  },
+  {
+   "qid": "2844",
+   "docid": "5726964#3",
+   "human": 0,
+   "passage_len": 661,
+   "grade_v1": 1,
+   "sec_v1": 1.808,
+   "grade_v2": 0,
+   "sec_v2": 1.697
+  },
+  {
+   "qid": "5163",
+   "docid": "7551336#44",
+   "human": 1,
+   "passage_len": 697,
+   "grade_v1": 1,
+   "sec_v1": 2.066,
+   "grade_v2": 0,
+   "sec_v2": 1.997
+  },
+  {
+   "qid": "4047",
+   "docid": "2284974#28",
+   "human": 0,
+   "passage_len": 1226,
+   "grade_v1": 2,
+   "sec_v1": 2.577,
+   "grade_v2": 0,
+   "sec_v2": 2.585
+  },
+  {
+   "qid": "3385",
+   "docid": "6170334#33",
+   "human": 0,
+   "passage_len": 312,
+   "grade_v1": 1,
+   "sec_v1": 1.004,
+   "grade_v2": 1,
+   "sec_v2": 1.019
+  },
+  {
+   "qid": "2955",
+   "docid": "244431#4",
+   "human": 1,
+   "passage_len": 1044,
+   "grade_v1": 1,
+   "sec_v1": 2.266,
+   "grade_v2": 1,
+   "sec_v2": 2.52
+  },
+  {
+   "qid": "427",
+   "docid": "3603751#66",
+   "human": 0,
+   "passage_len": 642,
+   "grade_v1": 1,
+   "sec_v1": 1.549,
+   "grade_v2": 1,
+   "sec_v2": 1.673
+  },
+  {
+   "qid": "3575",
+   "docid": "2625030#39",
+   "human": 0,
+   "passage_len": 1513,
+   "grade_v1": 0,
+   "sec_v1": 3.691,
+   "grade_v2": 0,
+   "sec_v2": 3.586
+  },
+  {
+   "qid": "674",
+   "docid": "202501#39",
+   "human": 1,
+   "passage_len": 898,
+   "grade_v1": 3,
+   "sec_v1": 2.257,
+   "grade_v2": 3,
+   "sec_v2": 2.198
+  },
+  {
+   "qid": "2476",
+   "docid": "1115008#21",
+   "human": 0,
+   "passage_len": 791,
+   "grade_v1": 0,
+   "sec_v1": 2.101,
+   "grade_v2": 0,
+   "sec_v2": 1.98
+  },
+  {
+   "qid": "6479",
+   "docid": "40529#23",
+   "human": 0,
+   "passage_len": 520,
+   "grade_v1": 3,
+   "sec_v1": 1.397,
+   "grade_v2": 1,
+   "sec_v2": 1.444
+  },
+  {
+   "qid": "4706",
+   "docid": "14025#4",
+   "human": 1,
+   "passage_len": 553,
+   "grade_v1": 1,
+   "sec_v1": 1.555,
+   "grade_v2": 0,
+   "sec_v2": 1.665
+  }
+ ]
+}
